@@ -1,29 +1,39 @@
 # Dependencies
 node_modules/
 package-lock.json
-dist/
-.vercel/
 
-# Environment and sensitive keys
+# Production & Build Outputs
+dist/
+dist-ssr/
+.vercel/
+.vercel
+.cache/
+
+# Environment Variables & Secrets
 .env
-.env.local
+.env.*
+!.env.example
+*.local
 serviceAccountKey.json
 *.pem
+*.key
 
-# Python
+# Python Virtual Environments & Cache
 __pycache__/
 *.pyc
 venv/
 .venv/
-
-# OS and Editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
 
 # Logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+firebase-debug.log*
+firestore-debug.log*
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
