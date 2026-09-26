@@ -1,0 +1,151 @@
+expenseId,employeeId,departmentId,category,description,amount,currency,expenseDate,submittedDate,status,priority,paymentMethod,receiptAvailable,vendor,costCenter
+EXP001,EMP007,DEPT007,Equipment,Compliance audit,20498,INR,2026-02-19,2026-02-22,Approved,Critical,Corporate Card,true,Adobe,CC-007
+EXP002,EMP014,DEPT004,Audit,Customer workshop,18193,INR,2026-05-08,2026-05-09,Approved,Normal,Purchase Order,true,Dell,CC-004
+EXP003,EMP021,DEPT001,Hardware,Team training program,7470,INR,2026-01-26,2026-01-30,Rejected,Normal,Personal Card,true,Dell,CC-001
+EXP004,EMP028,DEPT008,Software,Customer workshop,243158,INR,2026-01-02,2026-01-05,Approved,High,Purchase Order,true,Coursera,CC-008
+EXP005,EMP035,DEPT005,Training,Recruitment agency charges,10072,INR,2026-02-01,2026-02-03,Approved,Normal,Corporate Card,true,Adobe,CC-005
+EXP006,EMP042,DEPT002,Events,Employee wellness program,68996,INR,2026-07-26,2026-07-26,Under Review,Low,Corporate Card,true,Local Vendor,CC-002
+EXP007,EMP049,DEPT009,Consulting,Business travel expenses,124179,INR,2026-05-03,2026-05-05,Approved,Critical,Bank Transfer,true,Adobe,CC-009
+EXP008,EMP056,DEPT006,Travel,Hardware upgrade,20017,INR,2026-04-20,2026-04-24,Approved,Low,Personal Card,true,Microsoft,CC-006
+EXP009,EMP063,DEPT003,Travel,Office equipment purchase,22800,INR,2026-06-03,2026-06-03,Under Review,High,Corporate Card,true,Coursera,CC-003
+EXP010,EMP070,DEPT010,Compliance,External consulting services,169276,INR,2026-04-15,2026-04-17,Pending,Low,Corporate Card,true,Uber for Business,CC-010
+EXP011,EMP077,DEPT007,Logistics,Compliance audit,191072,INR,2026-03-24,2026-03-27,Pending,Low,Corporate Card,false,Microsoft,CC-007
+EXP012,EMP084,DEPT004,Office Supplies,Hardware upgrade,84696,INR,2026-08-09,2026-08-10,Approved,Low,Bank Transfer,true,AWS,CC-004
+EXP013,EMP091,DEPT001,Consulting,Cloud infrastructure usage,346770,INR,2026-03-21,2026-03-22,Rejected,Critical,Corporate Card,true,MakeMyTrip,CC-001
+EXP014,EMP098,DEPT008,Maintenance,Conference registration,86627,INR,2026-05-17,2026-05-18,Pending,Critical,Corporate Card,true,AWS,CC-008
+EXP015,EMP105,DEPT005,Consulting,Vendor service payment,52915,INR,2026-04-25,2026-04-25,Pending,High,Bank Transfer,true,Uber for Business,CC-005
+EXP016,EMP112,DEPT002,Design,External consulting services,142386,INR,2026-01-15,2026-01-15,Rejected,Normal,Bank Transfer,false,Local Vendor,CC-002
+EXP017,EMP119,DEPT009,Supplies,Digital advertising campaign,282228,INR,2026-09-19,2026-09-19,Approved,High,Corporate Card,true,Amazon Business,CC-009
+EXP018,EMP006,DEPT006,Training,Professional certification,75013,INR,2026-07-06,2026-07-09,Approved,High,Corporate Card,true,Uber for Business,CC-006
+EXP019,EMP013,DEPT003,Software,Compliance audit,285506,INR,2026-06-01,2026-06-05,Approved,Critical,Personal Card,true,Uber for Business,CC-003
+EXP020,EMP020,DEPT010,Travel,Professional certification,90053,INR,2026-04-18,2026-04-21,Pending,Critical,Purchase Order,true,AWS,CC-010
+EXP021,EMP027,DEPT007,Supplies,Professional certification,82018,INR,2026-02-13,2026-02-15,Pending,Low,Personal Card,true,AWS,CC-007
+EXP022,EMP034,DEPT004,Software,Digital advertising campaign,264184,INR,2026-02-07,2026-02-10,Approved,Critical,Purchase Order,true,Microsoft,CC-004
+EXP023,EMP041,DEPT001,Consulting,Marketing event expenses,27532,INR,2026-08-06,2026-08-07,Approved,Critical,Corporate Card,true,Adobe,CC-001
+EXP024,EMP048,DEPT008,Maintenance,Marketing event expenses,150901,INR,2026-08-15,2026-08-19,Rejected,Critical,Purchase Order,true,Dell,CC-008
+EXP025,EMP055,DEPT005,Training,External consulting services,122406,INR,2026-09-24,2026-09-27,Pending,Critical,Corporate Card,true,AWS,CC-005
+EXP026,EMP062,DEPT002,Design,Office equipment purchase,50952,INR,2026-03-19,2026-03-20,Approved,Normal,Corporate Card,true,MakeMyTrip,CC-002
+EXP027,EMP069,DEPT009,Consulting,Annual software subscription,254220,INR,2026-07-19,2026-07-23,Under Review,Critical,Purchase Order,false,MakeMyTrip,CC-009
+EXP028,EMP076,DEPT006,Advertising,Recruitment agency charges,55558,INR,2026-09-07,2026-09-08,Approved,Low,Purchase Order,true,Zoho,CC-006
+EXP029,EMP083,DEPT003,Training,Annual software subscription,20315,INR,2026-07-21,2026-07-25,Pending,Low,Purchase Order,true,Dell,CC-003
+EXP030,EMP090,DEPT010,Compliance,Vendor service payment,47049,INR,2026-08-21,2026-08-23,Approved,High,Purchase Order,true,Adobe,CC-010
+EXP031,EMP097,DEPT007,Maintenance,Client meeting travel,160702,INR,2026-04-25,2026-04-25,Pending,Low,Personal Card,true,Amazon Business,CC-007
+EXP032,EMP104,DEPT004,Office Supplies,Hardware upgrade,9993,INR,2026-04-22,2026-04-25,Pending,Normal,Corporate Card,true,Microsoft,CC-004
+EXP033,EMP111,DEPT001,Cloud Services,Digital advertising campaign,93365,INR,2026-07-12,2026-07-15,Under Review,Low,Personal Card,true,Uber for Business,CC-001
+EXP034,EMP118,DEPT008,Cybersecurity,Hardware upgrade,8966,INR,2026-06-27,2026-07-01,Approved,Low,Bank Transfer,false,Zoho,CC-008
+EXP035,EMP005,DEPT005,Training,Marketing event expenses,366614,INR,2026-03-20,2026-03-23,Approved,High,Purchase Order,true,Local Vendor,CC-005
+EXP036,EMP012,DEPT002,Design,Customer workshop,15561,INR,2026-05-23,2026-05-26,Approved,Critical,Bank Transfer,false,MakeMyTrip,CC-002
+EXP037,EMP019,DEPT009,Travel,External consulting services,136507,INR,2026-06-24,2026-06-26,Rejected,Low,Personal Card,true,Zoho,CC-009
+EXP038,EMP026,DEPT006,Events,Team training program,381039,INR,2026-09-09,2026-09-12,Pending,High,Personal Card,true,AWS,CC-006
+EXP039,EMP033,DEPT003,Employee Welfare,Customer workshop,138368,INR,2026-08-06,2026-08-10,Approved,High,Bank Transfer,true,Adobe,CC-003
+EXP040,EMP040,DEPT010,Compliance,External consulting services,37835,INR,2026-04-09,2026-04-10,Pending,High,Corporate Card,true,Uber for Business,CC-010
+EXP041,EMP047,DEPT007,Equipment,Software license renewal,41759,INR,2026-05-21,2026-05-21,Under Review,High,Personal Card,true,Dell,CC-007
+EXP042,EMP054,DEPT004,Audit,Client meeting travel,323049,INR,2026-08-14,2026-08-16,Approved,High,Purchase Order,true,Adobe,CC-004
+EXP043,EMP061,DEPT001,Travel,Business travel expenses,21113,INR,2026-03-19,2026-03-20,Rejected,Low,Personal Card,true,Zoho,CC-001
+EXP044,EMP068,DEPT008,Cybersecurity,Compliance audit,259162,INR,2026-08-19,2026-08-22,Approved,High,Corporate Card,true,Adobe,CC-008
+EXP045,EMP075,DEPT005,Consulting,Team training program,25496,INR,2026-03-22,2026-03-23,Approved,Normal,Corporate Card,true,Local Vendor,CC-005
+EXP046,EMP082,DEPT002,Travel,External consulting services,120340,INR,2026-08-21,2026-08-21,Pending,Normal,Purchase Order,true,AWS,CC-002
+EXP047,EMP089,DEPT009,Travel,Business travel expenses,13704,INR,2026-03-26,2026-03-28,Pending,Critical,Corporate Card,true,Uber for Business,CC-009
+EXP048,EMP096,DEPT006,Software,Compliance audit,341552,INR,2026-08-13,2026-08-13,Pending,High,Bank Transfer,false,AWS,CC-006
+EXP049,EMP103,DEPT003,Software,Customer workshop,190238,INR,2026-01-21,2026-01-22,Pending,High,Personal Card,true,Zoho,CC-003
+EXP050,EMP110,DEPT010,Travel,Professional certification,135607,INR,2026-06-14,2026-06-14,Rejected,Critical,Purchase Order,true,Zoho,CC-010
+EXP051,EMP117,DEPT007,Supplies,Vendor service payment,101542,INR,2026-06-15,2026-06-15,Under Review,Low,Purchase Order,true,AWS,CC-007
+EXP052,EMP004,DEPT004,Office Supplies,Office equipment purchase,330676,INR,2026-01-27,2026-01-28,Approved,High,Purchase Order,true,Dell,CC-004
+EXP053,EMP011,DEPT001,Software,Software license renewal,71289,INR,2026-03-23,2026-03-25,Pending,Critical,Corporate Card,true,Adobe,CC-001
+EXP054,EMP018,DEPT008,Maintenance,Compliance audit,240362,INR,2026-05-30,2026-06-03,Pending,Critical,Purchase Order,true,Coursera,CC-008
+EXP055,EMP025,DEPT005,Consulting,Compliance audit,42491,INR,2026-02-05,2026-02-07,Pending,High,Bank Transfer,true,Uber for Business,CC-005
+EXP056,EMP032,DEPT002,Software,Hardware upgrade,352023,INR,2026-03-18,2026-03-21,Pending,High,Purchase Order,true,MakeMyTrip,CC-002
+EXP057,EMP039,DEPT009,Travel,Recruitment agency charges,45650,INR,2026-07-30,2026-07-30,Approved,Critical,Purchase Order,true,Microsoft,CC-009
+EXP058,EMP046,DEPT006,Events,Customer workshop,155836,INR,2026-02-21,2026-02-24,Approved,Low,Personal Card,true,Microsoft,CC-006
+EXP059,EMP053,DEPT003,Recruitment,Software license renewal,288751,INR,2026-02-11,2026-02-13,Rejected,Critical,Bank Transfer,true,Dell,CC-003
+EXP060,EMP060,DEPT010,Training,Conference registration,98968,INR,2026-04-27,2026-04-27,Approved,Low,Purchase Order,true,Uber for Business,CC-010
+EXP061,EMP067,DEPT007,Logistics,Employee wellness program,194352,INR,2026-07-03,2026-07-05,Approved,Critical,Personal Card,true,Adobe,CC-007
+EXP062,EMP074,DEPT004,Office Supplies,External consulting services,263132,INR,2026-03-15,2026-03-16,Pending,Critical,Bank Transfer,true,Dell,CC-004
+EXP063,EMP081,DEPT001,Cloud Services,Compliance audit,219362,INR,2026-06-26,2026-06-30,Approved,High,Purchase Order,true,AWS,CC-001
+EXP064,EMP088,DEPT008,Maintenance,Vendor service payment,121091,INR,2026-06-01,2026-06-03,Approved,High,Corporate Card,true,Amazon Business,CC-008
+EXP065,EMP095,DEPT005,Business Meals,Employee wellness program,199161,INR,2026-04-28,2026-05-02,Rejected,Normal,Bank Transfer,true,Microsoft,CC-005
+EXP066,EMP102,DEPT002,Software,Hardware upgrade,8183,INR,2026-06-08,2026-06-11,Approved,Normal,Corporate Card,true,MakeMyTrip,CC-002
+EXP067,EMP109,DEPT009,Supplies,External consulting services,107322,INR,2026-09-14,2026-09-16,Rejected,Critical,Bank Transfer,true,MakeMyTrip,CC-009
+EXP068,EMP116,DEPT006,Travel,Vendor service payment,34934,INR,2026-07-23,2026-07-27,Approved,Low,Bank Transfer,true,Dell,CC-006
+EXP069,EMP003,DEPT003,Employee Welfare,Recruitment agency charges,268724,INR,2026-07-10,2026-07-10,Pending,Low,Bank Transfer,true,AWS,CC-003
+EXP070,EMP010,DEPT010,Legal Consulting,Client meeting travel,150852,INR,2026-07-29,2026-07-29,Approved,High,Purchase Order,true,AWS,CC-010
+EXP071,EMP017,DEPT007,Supplies,Recruitment agency charges,297258,INR,2026-03-21,2026-03-24,Pending,Critical,Bank Transfer,false,MakeMyTrip,CC-007
+EXP072,EMP024,DEPT004,Software,Hardware upgrade,120947,INR,2026-02-20,2026-02-22,Pending,Low,Purchase Order,true,Adobe,CC-004
+EXP073,EMP031,DEPT001,Travel,Office equipment purchase,8003,INR,2026-01-26,2026-01-28,Approved,Normal,Corporate Card,true,Coursera,CC-001
+EXP074,EMP038,DEPT008,Software,Annual software subscription,44152,INR,2026-06-18,2026-06-19,Pending,High,Personal Card,true,Coursera,CC-008
+EXP075,EMP045,DEPT005,Events,Employee wellness program,10717,INR,2026-03-09,2026-03-09,Approved,High,Corporate Card,true,Amazon Business,CC-005
+EXP076,EMP052,DEPT002,Events,Marketing event expenses,29304,INR,2026-09-01,2026-09-04,Pending,Low,Purchase Order,true,Local Vendor,CC-002
+EXP077,EMP059,DEPT009,Vendor Services,Recruitment agency charges,176363,INR,2026-08-23,2026-08-23,Approved,Critical,Purchase Order,true,Dell,CC-009
+EXP078,EMP066,DEPT006,Software,Software license renewal,34816,INR,2026-02-03,2026-02-04,Approved,High,Purchase Order,true,Coursera,CC-006
+EXP079,EMP073,DEPT003,Employee Welfare,Digital advertising campaign,19867,INR,2026-02-28,2026-03-04,Pending,Critical,Purchase Order,true,Zoho,CC-003
+EXP080,EMP080,DEPT010,Software,External consulting services,19860,INR,2026-06-10,2026-06-13,Approved,High,Personal Card,true,Dell,CC-010
+EXP081,EMP087,DEPT007,Logistics,Software license renewal,224439,INR,2026-02-19,2026-02-21,Rejected,Low,Bank Transfer,true,Zoho,CC-007
+EXP082,EMP094,DEPT004,Travel,Conference registration,26801,INR,2026-05-28,2026-06-01,Approved,Normal,Personal Card,true,AWS,CC-004
+EXP083,EMP101,DEPT001,Software,Compliance audit,16472,INR,2026-05-23,2026-05-27,Approved,Low,Bank Transfer,false,Uber for Business,CC-001
+EXP084,EMP108,DEPT008,Cloud Services,Annual software subscription,53004,INR,2026-07-25,2026-07-25,Approved,Low,Personal Card,true,Dell,CC-008
+EXP085,EMP115,DEPT005,Events,Client meeting travel,130846,INR,2026-02-13,2026-02-13,Approved,Low,Bank Transfer,true,Zoho,CC-005
+EXP086,EMP002,DEPT002,Travel,Conference registration,58969,INR,2026-09-20,2026-09-20,Approved,High,Purchase Order,true,Uber for Business,CC-002
+EXP087,EMP009,DEPT009,Vendor Services,Office equipment purchase,12225,INR,2026-04-15,2026-04-17,Under Review,High,Bank Transfer,true,Amazon Business,CC-009
+EXP088,EMP016,DEPT006,Events,Hardware upgrade,233865,INR,2026-04-28,2026-05-02,Pending,Low,Purchase Order,true,Amazon Business,CC-006
+EXP089,EMP023,DEPT003,Travel,Compliance audit,100205,INR,2026-08-08,2026-08-12,Approved,High,Corporate Card,true,MakeMyTrip,CC-003
+EXP090,EMP030,DEPT010,Compliance,Employee wellness program,199055,INR,2026-02-15,2026-02-18,Rejected,Critical,Purchase Order,true,Zoho,CC-010
+EXP091,EMP037,DEPT007,Travel,Marketing event expenses,52250,INR,2026-02-09,2026-02-13,Pending,Normal,Bank Transfer,true,Microsoft,CC-007
+EXP092,EMP044,DEPT004,Software,Recruitment agency charges,39597,INR,2026-03-20,2026-03-20,Approved,Critical,Purchase Order,true,Local Vendor,CC-004
+EXP093,EMP051,DEPT001,Consulting,Customer workshop,132363,INR,2026-03-19,2026-03-22,Approved,High,Bank Transfer,true,MakeMyTrip,CC-001
+EXP094,EMP058,DEPT008,Cybersecurity,Team training program,7431,INR,2026-01-30,2026-02-01,Rejected,Low,Purchase Order,true,Coursera,CC-008
+EXP095,EMP065,DEPT005,Travel,Office equipment purchase,89575,INR,2026-06-14,2026-06-18,Pending,Low,Purchase Order,true,MakeMyTrip,CC-005
+EXP096,EMP072,DEPT002,Software,Marketing event expenses,7763,INR,2026-05-07,2026-05-10,Under Review,Normal,Bank Transfer,true,Uber for Business,CC-002
+EXP097,EMP079,DEPT009,Supplies,Software license renewal,18394,INR,2026-06-21,2026-06-21,Approved,Critical,Bank Transfer,true,Local Vendor,CC-009
+EXP098,EMP086,DEPT006,Client Meetings,Vendor service payment,35341,INR,2026-06-29,2026-07-01,Under Review,Normal,Corporate Card,true,Zoho,CC-006
+EXP099,EMP093,DEPT003,Employee Welfare,Hardware upgrade,9187,INR,2026-08-05,2026-08-09,Approved,High,Personal Card,true,MakeMyTrip,CC-003
+EXP100,EMP100,DEPT010,Travel,Software license renewal,11291,INR,2026-06-01,2026-06-01,Pending,Low,Bank Transfer,true,Local Vendor,CC-010
+EXP101,EMP107,DEPT007,Equipment,Hardware upgrade,54688,INR,2026-03-26,2026-03-29,Approved,Normal,Purchase Order,true,Dell,CC-007
+EXP102,EMP114,DEPT004,Software,Customer workshop,411975,INR,2026-04-10,2026-04-12,Pending,Critical,Bank Transfer,true,Coursera,CC-004
+EXP103,EMP001,DEPT001,Training,Hardware upgrade,40620,INR,2026-05-09,2026-05-09,Pending,Low,Corporate Card,true,Microsoft,CC-001
+EXP104,EMP008,DEPT008,Cloud Services,Hardware upgrade,238626,INR,2026-02-16,2026-02-17,Rejected,Low,Purchase Order,false,Coursera,CC-008
+EXP105,EMP015,DEPT005,Events,Professional certification,55307,INR,2026-01-15,2026-01-17,Under Review,Normal,Personal Card,false,Dell,CC-005
+EXP106,EMP022,DEPT002,Software,Digital advertising campaign,322974,INR,2026-01-03,2026-01-03,Approved,Normal,Purchase Order,true,Uber for Business,CC-002
+EXP107,EMP029,DEPT009,Travel,Recruitment agency charges,262505,INR,2026-08-23,2026-08-23,Approved,Low,Personal Card,true,Uber for Business,CC-009
+EXP108,EMP036,DEPT006,Events,Hardware upgrade,263062,INR,2026-04-06,2026-04-06,Pending,Low,Corporate Card,true,Dell,CC-006
+EXP109,EMP043,DEPT003,Recruitment,Conference registration,25829,INR,2026-07-02,2026-07-02,Approved,High,Personal Card,false,Coursera,CC-003
+EXP110,EMP050,DEPT010,Software,Team training program,404247,INR,2026-09-03,2026-09-04,Rejected,Critical,Corporate Card,true,Amazon Business,CC-010
+EXP111,EMP057,DEPT007,Equipment,Digital advertising campaign,335104,INR,2026-08-31,2026-09-02,Approved,High,Bank Transfer,true,Amazon Business,CC-007
+EXP112,EMP064,DEPT004,Compliance,Vendor service payment,106315,INR,2026-08-12,2026-08-15,Pending,High,Personal Card,true,Dell,CC-004
+EXP113,EMP071,DEPT001,Cloud Services,Cloud infrastructure usage,221656,INR,2026-02-10,2026-02-13,Pending,High,Bank Transfer,true,MakeMyTrip,CC-001
+EXP114,EMP078,DEPT008,Cloud Services,Client meeting travel,388131,INR,2026-03-27,2026-03-30,Approved,High,Purchase Order,true,Amazon Business,CC-008
+EXP115,EMP085,DEPT005,Travel,Customer workshop,71780,INR,2026-01-16,2026-01-17,Rejected,Low,Personal Card,false,MakeMyTrip,CC-005
+EXP116,EMP092,DEPT002,Design,Team training program,67174,INR,2026-08-19,2026-08-21,Approved,Normal,Bank Transfer,true,Uber for Business,CC-002
+EXP117,EMP099,DEPT009,Travel,Conference registration,248771,INR,2026-09-23,2026-09-26,Under Review,High,Bank Transfer,true,AWS,CC-009
+EXP118,EMP106,DEPT006,Training,Customer workshop,14357,INR,2026-03-11,2026-03-11,Pending,Low,Bank Transfer,true,Adobe,CC-006
+EXP119,EMP113,DEPT003,Software,Conference registration,49029,INR,2026-03-31,2026-04-02,Pending,Normal,Personal Card,true,Dell,CC-003
+EXP120,EMP120,DEPT010,Legal Consulting,Team training program,296707,INR,2026-03-08,2026-03-12,Rejected,High,Purchase Order,true,Dell,CC-010
+EXP121,EMP007,DEPT007,Supplies,Customer workshop,18460,INR,2026-03-06,2026-03-08,Pending,Critical,Bank Transfer,true,Coursera,CC-007
+EXP122,EMP014,DEPT004,Compliance,Marketing event expenses,233825,INR,2026-09-15,2026-09-15,Rejected,Normal,Bank Transfer,true,MakeMyTrip,CC-004
+EXP123,EMP021,DEPT001,Consulting,Software license renewal,158012,INR,2026-02-10,2026-02-12,Approved,High,Personal Card,true,Local Vendor,CC-001
+EXP124,EMP028,DEPT008,Cybersecurity,Professional certification,62936,INR,2026-03-29,2026-04-02,Pending,Low,Corporate Card,true,Local Vendor,CC-008
+EXP125,EMP035,DEPT005,Events,Software license renewal,349982,INR,2026-01-16,2026-01-19,Rejected,High,Bank Transfer,true,Zoho,CC-005
+EXP126,EMP042,DEPT002,Design,Digital advertising campaign,34782,INR,2026-08-14,2026-08-17,Pending,High,Personal Card,true,MakeMyTrip,CC-002
+EXP127,EMP049,DEPT009,Software,External consulting services,18065,INR,2026-06-13,2026-06-14,Pending,Critical,Personal Card,true,Amazon Business,CC-009
+EXP128,EMP056,DEPT006,Advertising,Professional certification,86633,INR,2026-03-23,2026-03-25,Under Review,Normal,Personal Card,true,Coursera,CC-006
+EXP129,EMP063,DEPT003,Travel,Employee wellness program,21343,INR,2026-02-16,2026-02-19,Pending,Normal,Bank Transfer,false,Uber for Business,CC-003
+EXP130,EMP070,DEPT010,Travel,Conference registration,376297,INR,2026-05-27,2026-05-31,Approved,Critical,Personal Card,true,MakeMyTrip,CC-010
+EXP131,EMP077,DEPT007,Maintenance,Vendor service payment,32965,INR,2026-07-05,2026-07-09,Approved,Critical,Bank Transfer,true,Local Vendor,CC-007
+EXP132,EMP084,DEPT004,Compliance,Hardware upgrade,225344,INR,2026-07-11,2026-07-13,Pending,Normal,Personal Card,true,Zoho,CC-004
+EXP133,EMP091,DEPT001,Training,Marketing event expenses,95100,INR,2026-08-31,2026-09-04,Pending,Normal,Bank Transfer,true,MakeMyTrip,CC-001
+EXP134,EMP098,DEPT008,Software,Software license renewal,186904,INR,2026-06-22,2026-06-26,Rejected,Critical,Bank Transfer,true,Amazon Business,CC-008
+EXP135,EMP105,DEPT005,Events,Employee wellness program,104366,INR,2026-01-14,2026-01-18,Pending,Low,Purchase Order,true,Local Vendor,CC-005
+EXP136,EMP112,DEPT002,Travel,Professional certification,9842,INR,2026-02-26,2026-02-27,Approved,Critical,Personal Card,true,AWS,CC-002
+EXP137,EMP119,DEPT009,Supplies,Software license renewal,441309,INR,2026-02-01,2026-02-02,Pending,High,Purchase Order,true,MakeMyTrip,CC-009
+EXP138,EMP006,DEPT006,Client Meetings,Employee wellness program,159878,INR,2026-05-16,2026-05-20,Pending,High,Bank Transfer,true,Uber for Business,CC-006
+EXP139,EMP013,DEPT003,Employee Welfare,External consulting services,384808,INR,2026-06-12,2026-06-15,Approved,High,Corporate Card,true,Coursera,CC-003
+EXP140,EMP020,DEPT010,Travel,Team training program,83633,INR,2026-05-29,2026-05-29,Approved,High,Purchase Order,true,Dell,CC-010
+EXP141,EMP027,DEPT007,Equipment,Employee wellness program,160592,INR,2026-03-12,2026-03-12,Pending,Normal,Corporate Card,true,Coursera,CC-007
+EXP142,EMP034,DEPT004,Software,Office equipment purchase,226266,INR,2026-06-19,2026-06-22,Approved,Low,Personal Card,true,Dell,CC-004
+EXP143,EMP041,DEPT001,Travel,Team training program,189078,INR,2026-05-27,2026-05-27,Under Review,Normal,Corporate Card,true,Microsoft,CC-001
+EXP144,EMP048,DEPT008,Maintenance,Annual software subscription,304069,INR,2026-04-06,2026-04-08,Rejected,High,Corporate Card,true,MakeMyTrip,CC-008
+EXP145,EMP055,DEPT005,Events,Digital advertising campaign,337446,INR,2026-03-10,2026-03-14,Pending,Low,Bank Transfer,true,Dell,CC-005
+EXP146,EMP062,DEPT002,Software,Digital advertising campaign,114405,INR,2026-06-01,2026-06-05,Pending,Normal,Purchase Order,true,Coursera,CC-002
+EXP147,EMP069,DEPT009,Software,Employee wellness program,56269,INR,2026-03-13,2026-03-16,Approved,Low,Bank Transfer,true,Dell,CC-009
+EXP148,EMP076,DEPT006,Advertising,Client meeting travel,15801,INR,2026-05-14,2026-05-16,Pending,Low,Purchase Order,true,Zoho,CC-006
+EXP149,EMP083,DEPT003,Software,Employee wellness program,28054,INR,2026-06-01,2026-06-03,Pending,Normal,Purchase Order,true,Local Vendor,CC-003
+EXP150,EMP090,DEPT010,Software,Team training program,439284,INR,2026-04-22,2026-04-23,Pending,Critical,Bank Transfer,false,Local Vendor,CC-010

@@ -1,0 +1,30 @@
+{
+  "name": "intelligent-expense-budget-system-datasets",
+  "version": "1.0.0",
+  "description": "Comprehensive hardcoded datasets and Firebase Firestore upload utilities for Intelligent Expense Approval and Budget Monitoring System",
+  "main": "scripts/upload_to_firebase.js",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate_datasets.js",
+    "upload": "node scripts/upload_to_firebase.js",
+    "upload:dry": "node scripts/upload_to_firebase.js --dry-run",
+    "upload:supabase": "node scripts/upload_to_supabase.js",
+    "upload:supabase:dry": "node scripts/upload_to_supabase.js --dry-run",
+    "test:supabase": "node scripts/test_connection.js"
+  },
+  "keywords": [
+    "expense-approval",
+    "budget-monitoring",
+    "firebase",
+    "firestore",
+    "datasets",
+    "seed-data"
+  ],
+  "author": "Antigravity",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "dotenv": "^18.0.4",
+    "firebase-admin": "^12.0.0"
+  }
+}

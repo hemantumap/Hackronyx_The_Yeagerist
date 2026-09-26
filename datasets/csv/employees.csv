@@ -1,0 +1,121 @@
+employeeId,name,email,departmentId,role,managerId,location,employmentStatus
+EMP001,Rahul Sharma,rahul.sharma1@company.com,DEPT001,Executive,EMP015,Bangalore,Active
+EMP002,Priya Sharma,priya.sharma2@company.com,DEPT002,Analyst,EMP015,Mumbai,Active
+EMP003,Arjun Sharma,arjun.sharma3@company.com,DEPT003,Associate,EMP015,Delhi,Active
+EMP004,Sneha Sharma,sneha.sharma4@company.com,DEPT004,Specialist,EMP015,Mumbai,Active
+EMP005,Karan Sharma,karan.sharma5@company.com,DEPT005,Engineer,EMP015,Mumbai,Active
+EMP006,Neha Sharma,neha.sharma6@company.com,DEPT006,Senior Executive,EMP015,Pune,Active
+EMP007,Rohan Sharma,rohan.sharma7@company.com,DEPT007,Coordinator,EMP015,Hyderabad,Active
+EMP008,Pooja Sharma,pooja.sharma8@company.com,DEPT008,Consultant,EMP015,Chennai,Active
+EMP009,Amit Sharma,amit.sharma9@company.com,DEPT009,Executive,EMP015,Noida,Active
+EMP010,Vikram Sharma,vikram.sharma10@company.com,DEPT010,Analyst,EMP015,Gurgaon,Active
+EMP011,Ananya Sharma,ananya.sharma11@company.com,DEPT001,Associate,EMP015,Bangalore,Active
+EMP012,Aditya Sharma,aditya.sharma12@company.com,DEPT002,Specialist,EMP015,Mumbai,Active
+EMP013,Ishita Sharma,ishita.sharma13@company.com,DEPT003,Engineer,EMP015,Delhi,Active
+EMP014,Riya Sharma,riya.sharma14@company.com,DEPT004,Senior Executive,EMP015,Mumbai,Active
+EMP015,Manish Sharma,manish.sharma15@company.com,DEPT005,Manager,,Mumbai,Active
+EMP016,Kavya Sharma,kavya.sharma16@company.com,DEPT006,Consultant,EMP030,Pune,Active
+EMP017,Nikhil Sharma,nikhil.sharma17@company.com,DEPT007,Executive,EMP030,Hyderabad,On Leave
+EMP018,Meera Sharma,meera.sharma18@company.com,DEPT008,Analyst,EMP030,Chennai,Active
+EMP019,Sahil Sharma,sahil.sharma19@company.com,DEPT009,Associate,EMP030,Noida,Active
+EMP020,Tanvi Sharma,tanvi.sharma20@company.com,DEPT010,Specialist,EMP030,Gurgaon,Active
+EMP021,Rahul Verma,rahul.verma21@company.com,DEPT001,Engineer,EMP030,Bangalore,Active
+EMP022,Priya Verma,priya.verma22@company.com,DEPT002,Senior Executive,EMP030,Mumbai,Active
+EMP023,Arjun Verma,arjun.verma23@company.com,DEPT003,Coordinator,EMP030,Delhi,Active
+EMP024,Sneha Verma,sneha.verma24@company.com,DEPT004,Consultant,EMP030,Mumbai,Active
+EMP025,Karan Verma,karan.verma25@company.com,DEPT005,Executive,EMP030,Mumbai,Active
+EMP026,Neha Verma,neha.verma26@company.com,DEPT006,Analyst,EMP030,Pune,Active
+EMP027,Rohan Verma,rohan.verma27@company.com,DEPT007,Associate,EMP030,Hyderabad,Active
+EMP028,Pooja Verma,pooja.verma28@company.com,DEPT008,Specialist,EMP030,Chennai,Active
+EMP029,Amit Verma,amit.verma29@company.com,DEPT009,Engineer,EMP030,Noida,Active
+EMP030,Vikram Verma,vikram.verma30@company.com,DEPT010,Manager,,Gurgaon,Active
+EMP031,Ananya Verma,ananya.verma31@company.com,DEPT001,Coordinator,EMP045,Bangalore,Active
+EMP032,Aditya Verma,aditya.verma32@company.com,DEPT002,Consultant,EMP045,Mumbai,Active
+EMP033,Ishita Verma,ishita.verma33@company.com,DEPT003,Executive,EMP045,Delhi,Active
+EMP034,Riya Verma,riya.verma34@company.com,DEPT004,Analyst,EMP045,Mumbai,On Leave
+EMP035,Manish Verma,manish.verma35@company.com,DEPT005,Associate,EMP045,Mumbai,Active
+EMP036,Kavya Verma,kavya.verma36@company.com,DEPT006,Specialist,EMP045,Pune,Active
+EMP037,Nikhil Verma,nikhil.verma37@company.com,DEPT007,Engineer,EMP045,Hyderabad,Active
+EMP038,Meera Verma,meera.verma38@company.com,DEPT008,Senior Executive,EMP045,Chennai,Active
+EMP039,Sahil Verma,sahil.verma39@company.com,DEPT009,Coordinator,EMP045,Noida,Active
+EMP040,Tanvi Verma,tanvi.verma40@company.com,DEPT010,Consultant,EMP045,Gurgaon,Active
+EMP041,Rahul Mehta,rahul.mehta41@company.com,DEPT001,Executive,EMP045,Bangalore,Active
+EMP042,Priya Mehta,priya.mehta42@company.com,DEPT002,Analyst,EMP045,Mumbai,Active
+EMP043,Arjun Mehta,arjun.mehta43@company.com,DEPT003,Associate,EMP045,Delhi,Active
+EMP044,Sneha Mehta,sneha.mehta44@company.com,DEPT004,Specialist,EMP045,Mumbai,Active
+EMP045,Karan Mehta,karan.mehta45@company.com,DEPT005,Manager,,Mumbai,Active
+EMP046,Neha Mehta,neha.mehta46@company.com,DEPT006,Senior Executive,EMP060,Pune,Active
+EMP047,Rohan Mehta,rohan.mehta47@company.com,DEPT007,Coordinator,EMP060,Hyderabad,Active
+EMP048,Pooja Mehta,pooja.mehta48@company.com,DEPT008,Consultant,EMP060,Chennai,Active
+EMP049,Amit Mehta,amit.mehta49@company.com,DEPT009,Executive,EMP060,Noida,Active
+EMP050,Vikram Mehta,vikram.mehta50@company.com,DEPT010,Analyst,EMP060,Gurgaon,Active
+EMP051,Ananya Mehta,ananya.mehta51@company.com,DEPT001,Associate,EMP060,Bangalore,On Leave
+EMP052,Aditya Mehta,aditya.mehta52@company.com,DEPT002,Specialist,EMP060,Mumbai,Active
+EMP053,Ishita Mehta,ishita.mehta53@company.com,DEPT003,Engineer,EMP060,Delhi,Active
+EMP054,Riya Mehta,riya.mehta54@company.com,DEPT004,Senior Executive,EMP060,Mumbai,Active
+EMP055,Manish Mehta,manish.mehta55@company.com,DEPT005,Coordinator,EMP060,Mumbai,Active
+EMP056,Kavya Mehta,kavya.mehta56@company.com,DEPT006,Consultant,EMP060,Pune,Active
+EMP057,Nikhil Mehta,nikhil.mehta57@company.com,DEPT007,Executive,EMP060,Hyderabad,Active
+EMP058,Meera Mehta,meera.mehta58@company.com,DEPT008,Analyst,EMP060,Chennai,Active
+EMP059,Sahil Mehta,sahil.mehta59@company.com,DEPT009,Associate,EMP060,Noida,Active
+EMP060,Tanvi Mehta,tanvi.mehta60@company.com,DEPT010,Manager,,Gurgaon,Active
+EMP061,Rahul Kapoor,rahul.kapoor61@company.com,DEPT001,Engineer,EMP075,Bangalore,Active
+EMP062,Priya Kapoor,priya.kapoor62@company.com,DEPT002,Senior Executive,EMP075,Mumbai,Active
+EMP063,Arjun Kapoor,arjun.kapoor63@company.com,DEPT003,Coordinator,EMP075,Delhi,Active
+EMP064,Sneha Kapoor,sneha.kapoor64@company.com,DEPT004,Consultant,EMP075,Mumbai,Active
+EMP065,Karan Kapoor,karan.kapoor65@company.com,DEPT005,Executive,EMP075,Mumbai,Active
+EMP066,Neha Kapoor,neha.kapoor66@company.com,DEPT006,Analyst,EMP075,Pune,Active
+EMP067,Rohan Kapoor,rohan.kapoor67@company.com,DEPT007,Associate,EMP075,Hyderabad,Active
+EMP068,Pooja Kapoor,pooja.kapoor68@company.com,DEPT008,Specialist,EMP075,Chennai,On Leave
+EMP069,Amit Kapoor,amit.kapoor69@company.com,DEPT009,Engineer,EMP075,Noida,Active
+EMP070,Vikram Kapoor,vikram.kapoor70@company.com,DEPT010,Senior Executive,EMP075,Gurgaon,Active
+EMP071,Ananya Kapoor,ananya.kapoor71@company.com,DEPT001,Coordinator,EMP075,Bangalore,Active
+EMP072,Aditya Kapoor,aditya.kapoor72@company.com,DEPT002,Consultant,EMP075,Mumbai,Active
+EMP073,Ishita Kapoor,ishita.kapoor73@company.com,DEPT003,Executive,EMP075,Delhi,Active
+EMP074,Riya Kapoor,riya.kapoor74@company.com,DEPT004,Analyst,EMP075,Mumbai,Active
+EMP075,Manish Kapoor,manish.kapoor75@company.com,DEPT005,Manager,,Mumbai,Active
+EMP076,Kavya Kapoor,kavya.kapoor76@company.com,DEPT006,Specialist,EMP090,Pune,Active
+EMP077,Nikhil Kapoor,nikhil.kapoor77@company.com,DEPT007,Engineer,EMP090,Hyderabad,Active
+EMP078,Meera Kapoor,meera.kapoor78@company.com,DEPT008,Senior Executive,EMP090,Chennai,Active
+EMP079,Sahil Kapoor,sahil.kapoor79@company.com,DEPT009,Coordinator,EMP090,Noida,Active
+EMP080,Tanvi Kapoor,tanvi.kapoor80@company.com,DEPT010,Consultant,EMP090,Gurgaon,Active
+EMP081,Rahul Joshi,rahul.joshi81@company.com,DEPT001,Executive,EMP090,Bangalore,Active
+EMP082,Priya Joshi,priya.joshi82@company.com,DEPT002,Analyst,EMP090,Mumbai,Active
+EMP083,Arjun Joshi,arjun.joshi83@company.com,DEPT003,Associate,EMP090,Delhi,Active
+EMP084,Sneha Joshi,sneha.joshi84@company.com,DEPT004,Specialist,EMP090,Mumbai,Active
+EMP085,Karan Joshi,karan.joshi85@company.com,DEPT005,Engineer,EMP090,Mumbai,On Leave
+EMP086,Neha Joshi,neha.joshi86@company.com,DEPT006,Senior Executive,EMP090,Pune,Active
+EMP087,Rohan Joshi,rohan.joshi87@company.com,DEPT007,Coordinator,EMP090,Hyderabad,Active
+EMP088,Pooja Joshi,pooja.joshi88@company.com,DEPT008,Consultant,EMP090,Chennai,Active
+EMP089,Amit Joshi,amit.joshi89@company.com,DEPT009,Executive,EMP090,Noida,Active
+EMP090,Vikram Joshi,vikram.joshi90@company.com,DEPT010,Manager,,Gurgaon,Active
+EMP091,Ananya Joshi,ananya.joshi91@company.com,DEPT001,Associate,EMP105,Bangalore,Active
+EMP092,Aditya Joshi,aditya.joshi92@company.com,DEPT002,Specialist,EMP105,Mumbai,Active
+EMP093,Ishita Joshi,ishita.joshi93@company.com,DEPT003,Engineer,EMP105,Delhi,Active
+EMP094,Riya Joshi,riya.joshi94@company.com,DEPT004,Senior Executive,EMP105,Mumbai,Active
+EMP095,Manish Joshi,manish.joshi95@company.com,DEPT005,Coordinator,EMP105,Mumbai,Active
+EMP096,Kavya Joshi,kavya.joshi96@company.com,DEPT006,Consultant,EMP105,Pune,Active
+EMP097,Nikhil Joshi,nikhil.joshi97@company.com,DEPT007,Executive,EMP105,Hyderabad,Active
+EMP098,Meera Joshi,meera.joshi98@company.com,DEPT008,Analyst,EMP105,Chennai,Active
+EMP099,Sahil Joshi,sahil.joshi99@company.com,DEPT009,Associate,EMP105,Noida,Active
+EMP100,Tanvi Joshi,tanvi.joshi100@company.com,DEPT010,Specialist,EMP105,Gurgaon,Active
+EMP101,Rahul Gupta,rahul.gupta101@company.com,DEPT001,Engineer,EMP105,Bangalore,Active
+EMP102,Priya Gupta,priya.gupta102@company.com,DEPT002,Senior Executive,EMP105,Mumbai,On Leave
+EMP103,Arjun Gupta,arjun.gupta103@company.com,DEPT003,Coordinator,EMP105,Delhi,Active
+EMP104,Sneha Gupta,sneha.gupta104@company.com,DEPT004,Consultant,EMP105,Mumbai,Active
+EMP105,Karan Gupta,karan.gupta105@company.com,DEPT005,Manager,,Mumbai,Active
+EMP106,Neha Gupta,neha.gupta106@company.com,DEPT006,Analyst,EMP120,Pune,Active
+EMP107,Rohan Gupta,rohan.gupta107@company.com,DEPT007,Associate,EMP120,Hyderabad,Active
+EMP108,Pooja Gupta,pooja.gupta108@company.com,DEPT008,Specialist,EMP120,Chennai,Active
+EMP109,Amit Gupta,amit.gupta109@company.com,DEPT009,Engineer,EMP120,Noida,Active
+EMP110,Vikram Gupta,vikram.gupta110@company.com,DEPT010,Senior Executive,EMP120,Gurgaon,Active
+EMP111,Ananya Gupta,ananya.gupta111@company.com,DEPT001,Coordinator,EMP120,Bangalore,Active
+EMP112,Aditya Gupta,aditya.gupta112@company.com,DEPT002,Consultant,EMP120,Mumbai,Active
+EMP113,Ishita Gupta,ishita.gupta113@company.com,DEPT003,Executive,EMP120,Delhi,Active
+EMP114,Riya Gupta,riya.gupta114@company.com,DEPT004,Analyst,EMP120,Mumbai,Active
+EMP115,Manish Gupta,manish.gupta115@company.com,DEPT005,Associate,EMP120,Mumbai,Active
+EMP116,Kavya Gupta,kavya.gupta116@company.com,DEPT006,Specialist,EMP120,Pune,Active
+EMP117,Nikhil Gupta,nikhil.gupta117@company.com,DEPT007,Engineer,EMP120,Hyderabad,Active
+EMP118,Meera Gupta,meera.gupta118@company.com,DEPT008,Senior Executive,EMP120,Chennai,Active
+EMP119,Sahil Gupta,sahil.gupta119@company.com,DEPT009,Coordinator,EMP120,Noida,On Leave
+EMP120,Tanvi Gupta,tanvi.gupta120@company.com,DEPT010,Manager,,Gurgaon,Active

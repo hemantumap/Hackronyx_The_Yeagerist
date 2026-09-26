@@ -1,0 +1,151 @@
+approvalId,expenseId,approverId,approverRole,status,submittedDate,actionDate,comments,approvalLevel,escalationRequired
+APR001,EXP001,EMP015,Department Manager,Approved,2026-02-22,2026-02-23,Expense approved within policy and budget.,1,false
+APR002,EXP002,EMP015,Department Manager,Approved,2026-05-09,2026-05-10,Expense approved within policy and budget.,1,false
+APR003,EXP003,EMP030,Department Manager,Rejected,2026-01-30,2026-02-01,Insufficient business justification.,1,false
+APR004,EXP004,EMP030,Department Manager,Approved,2026-01-05,2026-01-08,Expense approved within policy and budget.,2,true
+APR005,EXP005,EMP045,Department Manager,Approved,2026-02-03,2026-02-04,Expense approved within policy and budget.,1,false
+APR006,EXP006,EMP045,Department Manager,Under Review,2026-07-26,,,1,false
+APR007,EXP007,EMP060,Department Manager,Approved,2026-05-05,2026-05-06,Expense approved within policy and budget.,2,false
+APR008,EXP008,EMP060,Department Manager,Approved,2026-04-24,2026-04-26,Expense approved within policy and budget.,1,false
+APR009,EXP009,EMP075,Department Manager,Under Review,2026-06-03,,,1,false
+APR010,EXP010,EMP075,Department Manager,Pending,2026-04-17,,,2,false
+APR011,EXP011,EMP090,Department Manager,Pending,2026-03-27,,,2,false
+APR012,EXP012,EMP090,Department Manager,Approved,2026-08-10,2026-08-13,Expense approved within policy and budget.,1,false
+APR013,EXP013,EMP105,Department Manager,Rejected,2026-03-22,2026-03-26,Receipt missing.,2,true
+APR014,EXP014,EMP105,Department Manager,Pending,2026-05-18,,,1,false
+APR015,EXP015,,Department Manager,Pending,2026-04-25,,,1,false
+APR016,EXP016,EMP120,Department Manager,Rejected,2026-01-15,2026-01-17,Insufficient business justification.,2,false
+APR017,EXP017,EMP120,Department Manager,Approved,2026-09-19,2026-09-22,Expense approved within policy and budget.,2,true
+APR018,EXP018,EMP015,Department Manager,Approved,2026-07-09,2026-07-11,Expense approved within policy and budget.,1,false
+APR019,EXP019,EMP015,Department Manager,Approved,2026-06-05,2026-06-06,Expense approved within policy and budget.,2,true
+APR020,EXP020,EMP030,Department Manager,Pending,2026-04-21,,,1,false
+APR021,EXP021,EMP030,Department Manager,Pending,2026-02-15,,,1,false
+APR022,EXP022,EMP045,Department Manager,Approved,2026-02-10,2026-02-13,Expense approved within policy and budget.,2,true
+APR023,EXP023,EMP045,Department Manager,Approved,2026-08-07,2026-08-09,Expense approved within policy and budget.,1,false
+APR024,EXP024,EMP060,Department Manager,Rejected,2026-08-19,2026-08-20,Expense exceeds policy limit.,2,false
+APR025,EXP025,EMP060,Department Manager,Pending,2026-09-27,,,2,false
+APR026,EXP026,EMP075,Department Manager,Approved,2026-03-20,2026-03-21,Expense approved within policy and budget.,1,false
+APR027,EXP027,EMP075,Department Manager,Under Review,2026-07-23,,,2,true
+APR028,EXP028,EMP090,Department Manager,Approved,2026-09-08,2026-09-11,Expense approved within policy and budget.,1,false
+APR029,EXP029,EMP090,Department Manager,Pending,2026-07-25,,,1,false
+APR030,EXP030,,Department Manager,Approved,2026-08-23,2026-08-25,Expense approved within policy and budget.,1,false
+APR031,EXP031,EMP105,Department Manager,Pending,2026-04-25,,,2,false
+APR032,EXP032,EMP105,Department Manager,Pending,2026-04-25,,,1,false
+APR033,EXP033,EMP120,Department Manager,Under Review,2026-07-15,,,1,false
+APR034,EXP034,EMP120,Department Manager,Approved,2026-07-01,2026-07-03,Expense approved within policy and budget.,1,false
+APR035,EXP035,EMP015,Department Manager,Approved,2026-03-23,2026-03-26,Expense approved within policy and budget.,2,true
+APR036,EXP036,EMP015,Department Manager,Approved,2026-05-26,2026-05-27,Expense approved within policy and budget.,1,false
+APR037,EXP037,EMP030,Department Manager,Rejected,2026-06-26,2026-06-30,Insufficient business justification.,2,false
+APR038,EXP038,EMP030,Department Manager,Pending,2026-09-12,,,2,true
+APR039,EXP039,EMP045,Department Manager,Approved,2026-08-10,2026-08-12,Expense approved within policy and budget.,2,false
+APR040,EXP040,EMP045,Department Manager,Pending,2026-04-10,,,1,false
+APR041,EXP041,EMP060,Department Manager,Under Review,2026-05-21,,,1,false
+APR042,EXP042,EMP060,Department Manager,Approved,2026-08-16,2026-08-19,Expense approved within policy and budget.,2,true
+APR043,EXP043,EMP075,Department Manager,Rejected,2026-03-20,2026-03-21,Expense exceeds policy limit.,1,false
+APR044,EXP044,EMP075,Department Manager,Approved,2026-08-22,2026-08-24,Expense approved within policy and budget.,2,true
+APR045,EXP045,,Department Manager,Approved,2026-03-23,2026-03-24,Expense approved within policy and budget.,1,false
+APR046,EXP046,EMP090,Department Manager,Pending,2026-08-21,,,2,false
+APR047,EXP047,EMP090,Department Manager,Pending,2026-03-28,,,1,false
+APR048,EXP048,EMP105,Department Manager,Pending,2026-08-13,,,2,true
+APR049,EXP049,EMP105,Department Manager,Pending,2026-01-22,,,2,false
+APR050,EXP050,EMP120,Department Manager,Rejected,2026-06-14,2026-06-16,Insufficient business justification.,2,false
+APR051,EXP051,EMP120,Department Manager,Under Review,2026-06-15,,,2,false
+APR052,EXP052,EMP015,Department Manager,Approved,2026-01-28,2026-01-29,Expense approved within policy and budget.,2,true
+APR053,EXP053,EMP015,Department Manager,Pending,2026-03-25,,,1,false
+APR054,EXP054,EMP030,Department Manager,Pending,2026-06-03,,,2,true
+APR055,EXP055,EMP030,Department Manager,Pending,2026-02-07,,,1,false
+APR056,EXP056,EMP045,Department Manager,Pending,2026-03-21,,,2,true
+APR057,EXP057,EMP045,Department Manager,Approved,2026-07-30,2026-07-31,Expense approved within policy and budget.,1,false
+APR058,EXP058,EMP060,Department Manager,Approved,2026-02-24,2026-02-26,Expense approved within policy and budget.,2,false
+APR059,EXP059,EMP060,Department Manager,Rejected,2026-02-13,2026-02-16,Insufficient business justification.,2,true
+APR060,EXP060,,Department Manager,Approved,2026-04-27,2026-04-28,Expense approved within policy and budget.,1,false
+APR061,EXP061,EMP075,Department Manager,Approved,2026-07-05,2026-07-08,Expense approved within policy and budget.,2,false
+APR062,EXP062,EMP075,Department Manager,Pending,2026-03-16,,,2,true
+APR063,EXP063,EMP090,Department Manager,Approved,2026-06-30,2026-07-01,Expense approved within policy and budget.,2,true
+APR064,EXP064,EMP090,Department Manager,Approved,2026-06-03,2026-06-04,Expense approved within policy and budget.,2,false
+APR065,EXP065,EMP105,Department Manager,Rejected,2026-05-02,2026-05-06,Receipt missing.,2,false
+APR066,EXP066,EMP105,Department Manager,Approved,2026-06-11,2026-06-13,Expense approved within policy and budget.,1,false
+APR067,EXP067,EMP120,Department Manager,Rejected,2026-09-16,2026-09-20,Receipt missing.,2,false
+APR068,EXP068,EMP120,Department Manager,Approved,2026-07-27,2026-07-28,Expense approved within policy and budget.,1,false
+APR069,EXP069,EMP015,Department Manager,Pending,2026-07-10,,,2,true
+APR070,EXP070,EMP015,Department Manager,Approved,2026-07-29,2026-08-01,Expense approved within policy and budget.,2,false
+APR071,EXP071,EMP030,Department Manager,Pending,2026-03-24,,,2,true
+APR072,EXP072,EMP030,Department Manager,Pending,2026-02-22,,,2,false
+APR073,EXP073,EMP045,Department Manager,Approved,2026-01-28,2026-01-31,Expense approved within policy and budget.,1,false
+APR074,EXP074,EMP045,Department Manager,Pending,2026-06-19,,,1,false
+APR075,EXP075,,Department Manager,Approved,2026-03-09,2026-03-12,Expense approved within policy and budget.,1,false
+APR076,EXP076,EMP060,Department Manager,Pending,2026-09-04,,,1,false
+APR077,EXP077,EMP060,Department Manager,Approved,2026-08-23,2026-08-25,Expense approved within policy and budget.,2,false
+APR078,EXP078,EMP075,Department Manager,Approved,2026-02-04,2026-02-06,Expense approved within policy and budget.,1,false
+APR079,EXP079,EMP075,Department Manager,Pending,2026-03-04,,,1,false
+APR080,EXP080,EMP090,Department Manager,Approved,2026-06-13,2026-06-15,Expense approved within policy and budget.,1,false
+APR081,EXP081,EMP090,Department Manager,Rejected,2026-02-21,2026-02-25,Expense exceeds policy limit.,2,true
+APR082,EXP082,EMP105,Department Manager,Approved,2026-06-01,2026-06-03,Expense approved within policy and budget.,1,false
+APR083,EXP083,EMP105,Department Manager,Approved,2026-05-27,2026-05-28,Expense approved within policy and budget.,1,false
+APR084,EXP084,EMP120,Department Manager,Approved,2026-07-25,2026-07-28,Expense approved within policy and budget.,1,false
+APR085,EXP085,EMP120,Department Manager,Approved,2026-02-13,2026-02-16,Expense approved within policy and budget.,2,false
+APR086,EXP086,EMP015,Department Manager,Approved,2026-09-20,2026-09-23,Expense approved within policy and budget.,1,false
+APR087,EXP087,EMP015,Department Manager,Under Review,2026-04-17,,,1,false
+APR088,EXP088,EMP030,Department Manager,Pending,2026-05-02,,,2,true
+APR089,EXP089,EMP030,Department Manager,Approved,2026-08-12,2026-08-13,Expense approved within policy and budget.,2,false
+APR090,EXP090,,Department Manager,Rejected,2026-02-18,2026-02-21,Receipt missing.,2,false
+APR091,EXP091,EMP045,Department Manager,Pending,2026-02-13,,,1,false
+APR092,EXP092,EMP045,Department Manager,Approved,2026-03-20,2026-03-21,Expense approved within policy and budget.,1,false
+APR093,EXP093,EMP060,Department Manager,Approved,2026-03-22,2026-03-25,Expense approved within policy and budget.,2,false
+APR094,EXP094,EMP060,Department Manager,Rejected,2026-02-01,2026-02-05,Insufficient business justification.,1,false
+APR095,EXP095,EMP075,Department Manager,Pending,2026-06-18,,,1,false
+APR096,EXP096,EMP075,Department Manager,Under Review,2026-05-10,,,1,false
+APR097,EXP097,EMP090,Department Manager,Approved,2026-06-21,2026-06-22,Expense approved within policy and budget.,1,false
+APR098,EXP098,EMP090,Department Manager,Under Review,2026-07-01,,,1,false
+APR099,EXP099,EMP105,Department Manager,Approved,2026-08-09,2026-08-12,Expense approved within policy and budget.,1,false
+APR100,EXP100,EMP105,Department Manager,Pending,2026-06-01,,,1,false
+APR101,EXP101,EMP120,Department Manager,Approved,2026-03-29,2026-03-30,Expense approved within policy and budget.,1,false
+APR102,EXP102,EMP120,Department Manager,Pending,2026-04-12,,,2,true
+APR103,EXP103,EMP015,Department Manager,Pending,2026-05-09,,,1,false
+APR104,EXP104,EMP015,Department Manager,Rejected,2026-02-17,2026-02-18,Receipt missing.,2,true
+APR105,EXP105,,Department Manager,Under Review,2026-01-17,,,1,false
+APR106,EXP106,EMP030,Department Manager,Approved,2026-01-03,2026-01-05,Expense approved within policy and budget.,2,true
+APR107,EXP107,EMP030,Department Manager,Approved,2026-08-23,2026-08-25,Expense approved within policy and budget.,2,true
+APR108,EXP108,EMP045,Department Manager,Pending,2026-04-06,,,2,true
+APR109,EXP109,EMP045,Department Manager,Approved,2026-07-02,2026-07-05,Expense approved within policy and budget.,1,false
+APR110,EXP110,EMP060,Department Manager,Rejected,2026-09-04,2026-09-08,Insufficient business justification.,2,true
+APR111,EXP111,EMP060,Department Manager,Approved,2026-09-02,2026-09-04,Expense approved within policy and budget.,2,true
+APR112,EXP112,EMP075,Department Manager,Pending,2026-08-15,,,2,false
+APR113,EXP113,EMP075,Department Manager,Pending,2026-02-13,,,2,true
+APR114,EXP114,EMP090,Department Manager,Approved,2026-03-30,2026-03-31,Expense approved within policy and budget.,2,true
+APR115,EXP115,EMP090,Department Manager,Rejected,2026-01-17,2026-01-19,Expense exceeds policy limit.,1,false
+APR116,EXP116,EMP105,Department Manager,Approved,2026-08-21,2026-08-23,Expense approved within policy and budget.,1,false
+APR117,EXP117,EMP105,Department Manager,Under Review,2026-09-26,,,2,true
+APR118,EXP118,EMP120,Department Manager,Pending,2026-03-11,,,1,false
+APR119,EXP119,EMP120,Department Manager,Pending,2026-04-02,,,1,false
+APR120,EXP120,,Department Manager,Rejected,2026-03-12,2026-03-14,Expense exceeds policy limit.,2,true
+APR121,EXP121,EMP015,Department Manager,Pending,2026-03-08,,,1,false
+APR122,EXP122,EMP015,Department Manager,Rejected,2026-09-15,2026-09-17,Insufficient business justification.,2,true
+APR123,EXP123,EMP030,Department Manager,Approved,2026-02-12,2026-02-13,Expense approved within policy and budget.,2,false
+APR124,EXP124,EMP030,Department Manager,Pending,2026-04-02,,,1,false
+APR125,EXP125,EMP045,Department Manager,Rejected,2026-01-19,2026-01-20,Insufficient business justification.,2,true
+APR126,EXP126,EMP045,Department Manager,Pending,2026-08-17,,,1,false
+APR127,EXP127,EMP060,Department Manager,Pending,2026-06-14,,,1,false
+APR128,EXP128,EMP060,Department Manager,Under Review,2026-03-25,,,1,false
+APR129,EXP129,EMP075,Department Manager,Pending,2026-02-19,,,1,false
+APR130,EXP130,EMP075,Department Manager,Approved,2026-05-31,2026-06-02,Expense approved within policy and budget.,2,true
+APR131,EXP131,EMP090,Department Manager,Approved,2026-07-09,2026-07-12,Expense approved within policy and budget.,1,false
+APR132,EXP132,EMP090,Department Manager,Pending,2026-07-13,,,2,true
+APR133,EXP133,EMP105,Department Manager,Pending,2026-09-04,,,1,false
+APR134,EXP134,EMP105,Department Manager,Rejected,2026-06-26,2026-06-27,Receipt missing.,2,false
+APR135,EXP135,,Department Manager,Pending,2026-01-18,,,2,false
+APR136,EXP136,EMP120,Department Manager,Approved,2026-02-27,2026-02-28,Expense approved within policy and budget.,1,false
+APR137,EXP137,EMP120,Department Manager,Pending,2026-02-02,,,2,true
+APR138,EXP138,EMP015,Department Manager,Pending,2026-05-20,,,2,false
+APR139,EXP139,EMP015,Department Manager,Approved,2026-06-15,2026-06-16,Expense approved within policy and budget.,2,true
+APR140,EXP140,EMP030,Department Manager,Approved,2026-05-29,2026-05-30,Expense approved within policy and budget.,1,false
+APR141,EXP141,EMP030,Department Manager,Pending,2026-03-12,,,2,false
+APR142,EXP142,EMP045,Department Manager,Approved,2026-06-22,2026-06-25,Expense approved within policy and budget.,2,true
+APR143,EXP143,EMP045,Department Manager,Under Review,2026-05-27,,,2,false
+APR144,EXP144,EMP060,Department Manager,Rejected,2026-04-08,2026-04-09,Expense exceeds policy limit.,2,true
+APR145,EXP145,EMP060,Department Manager,Pending,2026-03-14,,,2,true
+APR146,EXP146,EMP075,Department Manager,Pending,2026-06-05,,,2,false
+APR147,EXP147,EMP075,Department Manager,Approved,2026-03-16,2026-03-19,Expense approved within policy and budget.,1,false
+APR148,EXP148,EMP090,Department Manager,Pending,2026-05-16,,,1,false
+APR149,EXP149,EMP090,Department Manager,Pending,2026-06-03,,,1,false
+APR150,EXP150,,Department Manager,Pending,2026-04-23,,,2,true

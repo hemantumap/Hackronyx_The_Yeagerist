@@ -1,0 +1,11 @@
+alertId,departmentId,severity,month,title,message,utilizationPercentage
+ALT001,DEPT001,WARNING,2026-01,Department DEPT001 Warning Budget Alert (2026-01),"Spend reached 75.2% of monthly allocated budget. Spent: 156726, Remaining: 41710",75.2
+ALT002,DEPT001,CRITICAL,2026-05,Department DEPT001 Critical Budget Alert (2026-05),"Spend reached 81.3% of monthly allocated budget. Spent: 169446, Remaining: 29280",81.3
+ALT003,DEPT001,WARNING,2026-06,Department DEPT001 Warning Budget Alert (2026-06),"Spend reached 77.6% of monthly allocated budget. Spent: 161612, Remaining: 16202",77.6
+ALT004,DEPT001,WARNING,2026-08,Department DEPT001 Warning Budget Alert (2026-08),"Spend reached 72.2% of monthly allocated budget. Spent: 150313, Remaining: 37946",72.2
+ALT005,DEPT002,WARNING,2026-03,Department DEPT002 Warning Budget Alert (2026-03),"Spend reached 71.7% of monthly allocated budget. Spent: 107487, Remaining: 30790",71.7
+ALT006,DEPT002,WARNING,2026-04,Department DEPT002 Warning Budget Alert (2026-04),"Spend reached 74.3% of monthly allocated budget. Spent: 111378, Remaining: 25007",74.3
+ALT007,DEPT002,WARNING,2026-06,Department DEPT002 Warning Budget Alert (2026-06),"Spend reached 71.9% of monthly allocated budget. Spent: 107892, Remaining: 26459",71.9
+ALT008,DEPT003,WARNING,2026-02,Department DEPT003 Warning Budget Alert (2026-02),"Spend reached 74.6% of monthly allocated budget. Spent: 74565, Remaining: 18102",74.6
+ALT009,DEPT003,WARNING,2026-08,Department DEPT003 Warning Budget Alert (2026-08),"Spend reached 75.5% of monthly allocated budget. Spent: 75535, Remaining: 15540",75.5
+ALT010,DEPT003,WARNING,2026-09,Department DEPT003 Warning Budget Alert (2026-09),"Spend reached 72.8% of monthly allocated budget. Spent: 72837, Remaining: 21013",72.8

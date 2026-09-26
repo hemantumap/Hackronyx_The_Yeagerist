@@ -1,0 +1,1202 @@
+[
+  {
+    "employeeId": "EMP001",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma1@company.com",
+    "departmentId": "DEPT001",
+    "role": "Executive",
+    "managerId": "EMP015",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP002",
+    "name": "Priya Sharma",
+    "email": "priya.sharma2@company.com",
+    "departmentId": "DEPT002",
+    "role": "Analyst",
+    "managerId": "EMP015",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP003",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma3@company.com",
+    "departmentId": "DEPT003",
+    "role": "Associate",
+    "managerId": "EMP015",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP004",
+    "name": "Sneha Sharma",
+    "email": "sneha.sharma4@company.com",
+    "departmentId": "DEPT004",
+    "role": "Specialist",
+    "managerId": "EMP015",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP005",
+    "name": "Karan Sharma",
+    "email": "karan.sharma5@company.com",
+    "departmentId": "DEPT005",
+    "role": "Engineer",
+    "managerId": "EMP015",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP006",
+    "name": "Neha Sharma",
+    "email": "neha.sharma6@company.com",
+    "departmentId": "DEPT006",
+    "role": "Senior Executive",
+    "managerId": "EMP015",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP007",
+    "name": "Rohan Sharma",
+    "email": "rohan.sharma7@company.com",
+    "departmentId": "DEPT007",
+    "role": "Coordinator",
+    "managerId": "EMP015",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP008",
+    "name": "Pooja Sharma",
+    "email": "pooja.sharma8@company.com",
+    "departmentId": "DEPT008",
+    "role": "Consultant",
+    "managerId": "EMP015",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP009",
+    "name": "Amit Sharma",
+    "email": "amit.sharma9@company.com",
+    "departmentId": "DEPT009",
+    "role": "Executive",
+    "managerId": "EMP015",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP010",
+    "name": "Vikram Sharma",
+    "email": "vikram.sharma10@company.com",
+    "departmentId": "DEPT010",
+    "role": "Analyst",
+    "managerId": "EMP015",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP011",
+    "name": "Ananya Sharma",
+    "email": "ananya.sharma11@company.com",
+    "departmentId": "DEPT001",
+    "role": "Associate",
+    "managerId": "EMP015",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP012",
+    "name": "Aditya Sharma",
+    "email": "aditya.sharma12@company.com",
+    "departmentId": "DEPT002",
+    "role": "Specialist",
+    "managerId": "EMP015",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP013",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma13@company.com",
+    "departmentId": "DEPT003",
+    "role": "Engineer",
+    "managerId": "EMP015",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP014",
+    "name": "Riya Sharma",
+    "email": "riya.sharma14@company.com",
+    "departmentId": "DEPT004",
+    "role": "Senior Executive",
+    "managerId": "EMP015",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP015",
+    "name": "Manish Sharma",
+    "email": "manish.sharma15@company.com",
+    "departmentId": "DEPT005",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP016",
+    "name": "Kavya Sharma",
+    "email": "kavya.sharma16@company.com",
+    "departmentId": "DEPT006",
+    "role": "Consultant",
+    "managerId": "EMP030",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP017",
+    "name": "Nikhil Sharma",
+    "email": "nikhil.sharma17@company.com",
+    "departmentId": "DEPT007",
+    "role": "Executive",
+    "managerId": "EMP030",
+    "location": "Hyderabad",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP018",
+    "name": "Meera Sharma",
+    "email": "meera.sharma18@company.com",
+    "departmentId": "DEPT008",
+    "role": "Analyst",
+    "managerId": "EMP030",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP019",
+    "name": "Sahil Sharma",
+    "email": "sahil.sharma19@company.com",
+    "departmentId": "DEPT009",
+    "role": "Associate",
+    "managerId": "EMP030",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP020",
+    "name": "Tanvi Sharma",
+    "email": "tanvi.sharma20@company.com",
+    "departmentId": "DEPT010",
+    "role": "Specialist",
+    "managerId": "EMP030",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP021",
+    "name": "Rahul Verma",
+    "email": "rahul.verma21@company.com",
+    "departmentId": "DEPT001",
+    "role": "Engineer",
+    "managerId": "EMP030",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP022",
+    "name": "Priya Verma",
+    "email": "priya.verma22@company.com",
+    "departmentId": "DEPT002",
+    "role": "Senior Executive",
+    "managerId": "EMP030",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP023",
+    "name": "Arjun Verma",
+    "email": "arjun.verma23@company.com",
+    "departmentId": "DEPT003",
+    "role": "Coordinator",
+    "managerId": "EMP030",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP024",
+    "name": "Sneha Verma",
+    "email": "sneha.verma24@company.com",
+    "departmentId": "DEPT004",
+    "role": "Consultant",
+    "managerId": "EMP030",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP025",
+    "name": "Karan Verma",
+    "email": "karan.verma25@company.com",
+    "departmentId": "DEPT005",
+    "role": "Executive",
+    "managerId": "EMP030",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP026",
+    "name": "Neha Verma",
+    "email": "neha.verma26@company.com",
+    "departmentId": "DEPT006",
+    "role": "Analyst",
+    "managerId": "EMP030",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP027",
+    "name": "Rohan Verma",
+    "email": "rohan.verma27@company.com",
+    "departmentId": "DEPT007",
+    "role": "Associate",
+    "managerId": "EMP030",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP028",
+    "name": "Pooja Verma",
+    "email": "pooja.verma28@company.com",
+    "departmentId": "DEPT008",
+    "role": "Specialist",
+    "managerId": "EMP030",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP029",
+    "name": "Amit Verma",
+    "email": "amit.verma29@company.com",
+    "departmentId": "DEPT009",
+    "role": "Engineer",
+    "managerId": "EMP030",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP030",
+    "name": "Vikram Verma",
+    "email": "vikram.verma30@company.com",
+    "departmentId": "DEPT010",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP031",
+    "name": "Ananya Verma",
+    "email": "ananya.verma31@company.com",
+    "departmentId": "DEPT001",
+    "role": "Coordinator",
+    "managerId": "EMP045",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP032",
+    "name": "Aditya Verma",
+    "email": "aditya.verma32@company.com",
+    "departmentId": "DEPT002",
+    "role": "Consultant",
+    "managerId": "EMP045",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP033",
+    "name": "Ishita Verma",
+    "email": "ishita.verma33@company.com",
+    "departmentId": "DEPT003",
+    "role": "Executive",
+    "managerId": "EMP045",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP034",
+    "name": "Riya Verma",
+    "email": "riya.verma34@company.com",
+    "departmentId": "DEPT004",
+    "role": "Analyst",
+    "managerId": "EMP045",
+    "location": "Mumbai",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP035",
+    "name": "Manish Verma",
+    "email": "manish.verma35@company.com",
+    "departmentId": "DEPT005",
+    "role": "Associate",
+    "managerId": "EMP045",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP036",
+    "name": "Kavya Verma",
+    "email": "kavya.verma36@company.com",
+    "departmentId": "DEPT006",
+    "role": "Specialist",
+    "managerId": "EMP045",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP037",
+    "name": "Nikhil Verma",
+    "email": "nikhil.verma37@company.com",
+    "departmentId": "DEPT007",
+    "role": "Engineer",
+    "managerId": "EMP045",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP038",
+    "name": "Meera Verma",
+    "email": "meera.verma38@company.com",
+    "departmentId": "DEPT008",
+    "role": "Senior Executive",
+    "managerId": "EMP045",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP039",
+    "name": "Sahil Verma",
+    "email": "sahil.verma39@company.com",
+    "departmentId": "DEPT009",
+    "role": "Coordinator",
+    "managerId": "EMP045",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP040",
+    "name": "Tanvi Verma",
+    "email": "tanvi.verma40@company.com",
+    "departmentId": "DEPT010",
+    "role": "Consultant",
+    "managerId": "EMP045",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP041",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta41@company.com",
+    "departmentId": "DEPT001",
+    "role": "Executive",
+    "managerId": "EMP045",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP042",
+    "name": "Priya Mehta",
+    "email": "priya.mehta42@company.com",
+    "departmentId": "DEPT002",
+    "role": "Analyst",
+    "managerId": "EMP045",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP043",
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta43@company.com",
+    "departmentId": "DEPT003",
+    "role": "Associate",
+    "managerId": "EMP045",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP044",
+    "name": "Sneha Mehta",
+    "email": "sneha.mehta44@company.com",
+    "departmentId": "DEPT004",
+    "role": "Specialist",
+    "managerId": "EMP045",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP045",
+    "name": "Karan Mehta",
+    "email": "karan.mehta45@company.com",
+    "departmentId": "DEPT005",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP046",
+    "name": "Neha Mehta",
+    "email": "neha.mehta46@company.com",
+    "departmentId": "DEPT006",
+    "role": "Senior Executive",
+    "managerId": "EMP060",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP047",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta47@company.com",
+    "departmentId": "DEPT007",
+    "role": "Coordinator",
+    "managerId": "EMP060",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP048",
+    "name": "Pooja Mehta",
+    "email": "pooja.mehta48@company.com",
+    "departmentId": "DEPT008",
+    "role": "Consultant",
+    "managerId": "EMP060",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP049",
+    "name": "Amit Mehta",
+    "email": "amit.mehta49@company.com",
+    "departmentId": "DEPT009",
+    "role": "Executive",
+    "managerId": "EMP060",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP050",
+    "name": "Vikram Mehta",
+    "email": "vikram.mehta50@company.com",
+    "departmentId": "DEPT010",
+    "role": "Analyst",
+    "managerId": "EMP060",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP051",
+    "name": "Ananya Mehta",
+    "email": "ananya.mehta51@company.com",
+    "departmentId": "DEPT001",
+    "role": "Associate",
+    "managerId": "EMP060",
+    "location": "Bangalore",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP052",
+    "name": "Aditya Mehta",
+    "email": "aditya.mehta52@company.com",
+    "departmentId": "DEPT002",
+    "role": "Specialist",
+    "managerId": "EMP060",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP053",
+    "name": "Ishita Mehta",
+    "email": "ishita.mehta53@company.com",
+    "departmentId": "DEPT003",
+    "role": "Engineer",
+    "managerId": "EMP060",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP054",
+    "name": "Riya Mehta",
+    "email": "riya.mehta54@company.com",
+    "departmentId": "DEPT004",
+    "role": "Senior Executive",
+    "managerId": "EMP060",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP055",
+    "name": "Manish Mehta",
+    "email": "manish.mehta55@company.com",
+    "departmentId": "DEPT005",
+    "role": "Coordinator",
+    "managerId": "EMP060",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP056",
+    "name": "Kavya Mehta",
+    "email": "kavya.mehta56@company.com",
+    "departmentId": "DEPT006",
+    "role": "Consultant",
+    "managerId": "EMP060",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP057",
+    "name": "Nikhil Mehta",
+    "email": "nikhil.mehta57@company.com",
+    "departmentId": "DEPT007",
+    "role": "Executive",
+    "managerId": "EMP060",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP058",
+    "name": "Meera Mehta",
+    "email": "meera.mehta58@company.com",
+    "departmentId": "DEPT008",
+    "role": "Analyst",
+    "managerId": "EMP060",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP059",
+    "name": "Sahil Mehta",
+    "email": "sahil.mehta59@company.com",
+    "departmentId": "DEPT009",
+    "role": "Associate",
+    "managerId": "EMP060",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP060",
+    "name": "Tanvi Mehta",
+    "email": "tanvi.mehta60@company.com",
+    "departmentId": "DEPT010",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP061",
+    "name": "Rahul Kapoor",
+    "email": "rahul.kapoor61@company.com",
+    "departmentId": "DEPT001",
+    "role": "Engineer",
+    "managerId": "EMP075",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP062",
+    "name": "Priya Kapoor",
+    "email": "priya.kapoor62@company.com",
+    "departmentId": "DEPT002",
+    "role": "Senior Executive",
+    "managerId": "EMP075",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP063",
+    "name": "Arjun Kapoor",
+    "email": "arjun.kapoor63@company.com",
+    "departmentId": "DEPT003",
+    "role": "Coordinator",
+    "managerId": "EMP075",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP064",
+    "name": "Sneha Kapoor",
+    "email": "sneha.kapoor64@company.com",
+    "departmentId": "DEPT004",
+    "role": "Consultant",
+    "managerId": "EMP075",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP065",
+    "name": "Karan Kapoor",
+    "email": "karan.kapoor65@company.com",
+    "departmentId": "DEPT005",
+    "role": "Executive",
+    "managerId": "EMP075",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP066",
+    "name": "Neha Kapoor",
+    "email": "neha.kapoor66@company.com",
+    "departmentId": "DEPT006",
+    "role": "Analyst",
+    "managerId": "EMP075",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP067",
+    "name": "Rohan Kapoor",
+    "email": "rohan.kapoor67@company.com",
+    "departmentId": "DEPT007",
+    "role": "Associate",
+    "managerId": "EMP075",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP068",
+    "name": "Pooja Kapoor",
+    "email": "pooja.kapoor68@company.com",
+    "departmentId": "DEPT008",
+    "role": "Specialist",
+    "managerId": "EMP075",
+    "location": "Chennai",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP069",
+    "name": "Amit Kapoor",
+    "email": "amit.kapoor69@company.com",
+    "departmentId": "DEPT009",
+    "role": "Engineer",
+    "managerId": "EMP075",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP070",
+    "name": "Vikram Kapoor",
+    "email": "vikram.kapoor70@company.com",
+    "departmentId": "DEPT010",
+    "role": "Senior Executive",
+    "managerId": "EMP075",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP071",
+    "name": "Ananya Kapoor",
+    "email": "ananya.kapoor71@company.com",
+    "departmentId": "DEPT001",
+    "role": "Coordinator",
+    "managerId": "EMP075",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP072",
+    "name": "Aditya Kapoor",
+    "email": "aditya.kapoor72@company.com",
+    "departmentId": "DEPT002",
+    "role": "Consultant",
+    "managerId": "EMP075",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP073",
+    "name": "Ishita Kapoor",
+    "email": "ishita.kapoor73@company.com",
+    "departmentId": "DEPT003",
+    "role": "Executive",
+    "managerId": "EMP075",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP074",
+    "name": "Riya Kapoor",
+    "email": "riya.kapoor74@company.com",
+    "departmentId": "DEPT004",
+    "role": "Analyst",
+    "managerId": "EMP075",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP075",
+    "name": "Manish Kapoor",
+    "email": "manish.kapoor75@company.com",
+    "departmentId": "DEPT005",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP076",
+    "name": "Kavya Kapoor",
+    "email": "kavya.kapoor76@company.com",
+    "departmentId": "DEPT006",
+    "role": "Specialist",
+    "managerId": "EMP090",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP077",
+    "name": "Nikhil Kapoor",
+    "email": "nikhil.kapoor77@company.com",
+    "departmentId": "DEPT007",
+    "role": "Engineer",
+    "managerId": "EMP090",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP078",
+    "name": "Meera Kapoor",
+    "email": "meera.kapoor78@company.com",
+    "departmentId": "DEPT008",
+    "role": "Senior Executive",
+    "managerId": "EMP090",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP079",
+    "name": "Sahil Kapoor",
+    "email": "sahil.kapoor79@company.com",
+    "departmentId": "DEPT009",
+    "role": "Coordinator",
+    "managerId": "EMP090",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP080",
+    "name": "Tanvi Kapoor",
+    "email": "tanvi.kapoor80@company.com",
+    "departmentId": "DEPT010",
+    "role": "Consultant",
+    "managerId": "EMP090",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP081",
+    "name": "Rahul Joshi",
+    "email": "rahul.joshi81@company.com",
+    "departmentId": "DEPT001",
+    "role": "Executive",
+    "managerId": "EMP090",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP082",
+    "name": "Priya Joshi",
+    "email": "priya.joshi82@company.com",
+    "departmentId": "DEPT002",
+    "role": "Analyst",
+    "managerId": "EMP090",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP083",
+    "name": "Arjun Joshi",
+    "email": "arjun.joshi83@company.com",
+    "departmentId": "DEPT003",
+    "role": "Associate",
+    "managerId": "EMP090",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP084",
+    "name": "Sneha Joshi",
+    "email": "sneha.joshi84@company.com",
+    "departmentId": "DEPT004",
+    "role": "Specialist",
+    "managerId": "EMP090",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP085",
+    "name": "Karan Joshi",
+    "email": "karan.joshi85@company.com",
+    "departmentId": "DEPT005",
+    "role": "Engineer",
+    "managerId": "EMP090",
+    "location": "Mumbai",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP086",
+    "name": "Neha Joshi",
+    "email": "neha.joshi86@company.com",
+    "departmentId": "DEPT006",
+    "role": "Senior Executive",
+    "managerId": "EMP090",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP087",
+    "name": "Rohan Joshi",
+    "email": "rohan.joshi87@company.com",
+    "departmentId": "DEPT007",
+    "role": "Coordinator",
+    "managerId": "EMP090",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP088",
+    "name": "Pooja Joshi",
+    "email": "pooja.joshi88@company.com",
+    "departmentId": "DEPT008",
+    "role": "Consultant",
+    "managerId": "EMP090",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP089",
+    "name": "Amit Joshi",
+    "email": "amit.joshi89@company.com",
+    "departmentId": "DEPT009",
+    "role": "Executive",
+    "managerId": "EMP090",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP090",
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi90@company.com",
+    "departmentId": "DEPT010",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP091",
+    "name": "Ananya Joshi",
+    "email": "ananya.joshi91@company.com",
+    "departmentId": "DEPT001",
+    "role": "Associate",
+    "managerId": "EMP105",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP092",
+    "name": "Aditya Joshi",
+    "email": "aditya.joshi92@company.com",
+    "departmentId": "DEPT002",
+    "role": "Specialist",
+    "managerId": "EMP105",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP093",
+    "name": "Ishita Joshi",
+    "email": "ishita.joshi93@company.com",
+    "departmentId": "DEPT003",
+    "role": "Engineer",
+    "managerId": "EMP105",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP094",
+    "name": "Riya Joshi",
+    "email": "riya.joshi94@company.com",
+    "departmentId": "DEPT004",
+    "role": "Senior Executive",
+    "managerId": "EMP105",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP095",
+    "name": "Manish Joshi",
+    "email": "manish.joshi95@company.com",
+    "departmentId": "DEPT005",
+    "role": "Coordinator",
+    "managerId": "EMP105",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP096",
+    "name": "Kavya Joshi",
+    "email": "kavya.joshi96@company.com",
+    "departmentId": "DEPT006",
+    "role": "Consultant",
+    "managerId": "EMP105",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP097",
+    "name": "Nikhil Joshi",
+    "email": "nikhil.joshi97@company.com",
+    "departmentId": "DEPT007",
+    "role": "Executive",
+    "managerId": "EMP105",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP098",
+    "name": "Meera Joshi",
+    "email": "meera.joshi98@company.com",
+    "departmentId": "DEPT008",
+    "role": "Analyst",
+    "managerId": "EMP105",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP099",
+    "name": "Sahil Joshi",
+    "email": "sahil.joshi99@company.com",
+    "departmentId": "DEPT009",
+    "role": "Associate",
+    "managerId": "EMP105",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP100",
+    "name": "Tanvi Joshi",
+    "email": "tanvi.joshi100@company.com",
+    "departmentId": "DEPT010",
+    "role": "Specialist",
+    "managerId": "EMP105",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP101",
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta101@company.com",
+    "departmentId": "DEPT001",
+    "role": "Engineer",
+    "managerId": "EMP105",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP102",
+    "name": "Priya Gupta",
+    "email": "priya.gupta102@company.com",
+    "departmentId": "DEPT002",
+    "role": "Senior Executive",
+    "managerId": "EMP105",
+    "location": "Mumbai",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP103",
+    "name": "Arjun Gupta",
+    "email": "arjun.gupta103@company.com",
+    "departmentId": "DEPT003",
+    "role": "Coordinator",
+    "managerId": "EMP105",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP104",
+    "name": "Sneha Gupta",
+    "email": "sneha.gupta104@company.com",
+    "departmentId": "DEPT004",
+    "role": "Consultant",
+    "managerId": "EMP105",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP105",
+    "name": "Karan Gupta",
+    "email": "karan.gupta105@company.com",
+    "departmentId": "DEPT005",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP106",
+    "name": "Neha Gupta",
+    "email": "neha.gupta106@company.com",
+    "departmentId": "DEPT006",
+    "role": "Analyst",
+    "managerId": "EMP120",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP107",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta107@company.com",
+    "departmentId": "DEPT007",
+    "role": "Associate",
+    "managerId": "EMP120",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP108",
+    "name": "Pooja Gupta",
+    "email": "pooja.gupta108@company.com",
+    "departmentId": "DEPT008",
+    "role": "Specialist",
+    "managerId": "EMP120",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP109",
+    "name": "Amit Gupta",
+    "email": "amit.gupta109@company.com",
+    "departmentId": "DEPT009",
+    "role": "Engineer",
+    "managerId": "EMP120",
+    "location": "Noida",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP110",
+    "name": "Vikram Gupta",
+    "email": "vikram.gupta110@company.com",
+    "departmentId": "DEPT010",
+    "role": "Senior Executive",
+    "managerId": "EMP120",
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP111",
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta111@company.com",
+    "departmentId": "DEPT001",
+    "role": "Coordinator",
+    "managerId": "EMP120",
+    "location": "Bangalore",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP112",
+    "name": "Aditya Gupta",
+    "email": "aditya.gupta112@company.com",
+    "departmentId": "DEPT002",
+    "role": "Consultant",
+    "managerId": "EMP120",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP113",
+    "name": "Ishita Gupta",
+    "email": "ishita.gupta113@company.com",
+    "departmentId": "DEPT003",
+    "role": "Executive",
+    "managerId": "EMP120",
+    "location": "Delhi",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP114",
+    "name": "Riya Gupta",
+    "email": "riya.gupta114@company.com",
+    "departmentId": "DEPT004",
+    "role": "Analyst",
+    "managerId": "EMP120",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP115",
+    "name": "Manish Gupta",
+    "email": "manish.gupta115@company.com",
+    "departmentId": "DEPT005",
+    "role": "Associate",
+    "managerId": "EMP120",
+    "location": "Mumbai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP116",
+    "name": "Kavya Gupta",
+    "email": "kavya.gupta116@company.com",
+    "departmentId": "DEPT006",
+    "role": "Specialist",
+    "managerId": "EMP120",
+    "location": "Pune",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP117",
+    "name": "Nikhil Gupta",
+    "email": "nikhil.gupta117@company.com",
+    "departmentId": "DEPT007",
+    "role": "Engineer",
+    "managerId": "EMP120",
+    "location": "Hyderabad",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP118",
+    "name": "Meera Gupta",
+    "email": "meera.gupta118@company.com",
+    "departmentId": "DEPT008",
+    "role": "Senior Executive",
+    "managerId": "EMP120",
+    "location": "Chennai",
+    "employmentStatus": "Active"
+  },
+  {
+    "employeeId": "EMP119",
+    "name": "Sahil Gupta",
+    "email": "sahil.gupta119@company.com",
+    "departmentId": "DEPT009",
+    "role": "Coordinator",
+    "managerId": "EMP120",
+    "location": "Noida",
+    "employmentStatus": "On Leave"
+  },
+  {
+    "employeeId": "EMP120",
+    "name": "Tanvi Gupta",
+    "email": "tanvi.gupta120@company.com",
+    "departmentId": "DEPT010",
+    "role": "Manager",
+    "managerId": null,
+    "location": "Gurgaon",
+    "employmentStatus": "Active"
+  }
+]

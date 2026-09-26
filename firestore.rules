@@ -1,0 +1,81 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function getUserData() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data;
+    }
+
+    function isFinanceOrExec() {
+      return isAuthenticated() && (
+        getUserData().role in ['FINANCE_ADMIN', 'FINANCE_AUDITOR', 'EXECUTIVE']
+      );
+    }
+
+    function isDeptManager(departmentId) {
+      return isAuthenticated() && 
+        getUserData().role == 'DEPARTMENT_MANAGER' && 
+        getUserData().departmentId == departmentId;
+    }
+
+    // Departments: Read by authenticated users; modifications by Finance/Executive
+    match /departments/{departmentId} {
+      allow read: if isAuthenticated();
+      allow write: if isFinanceOrExec();
+    }
+
+    // Users: Read by authenticated users; update by self or Finance
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      allow write: if isFinanceOrExec() || (isAuthenticated() && request.auth.uid == userId);
+    }
+
+    // Expense Categories: Read by all, write by Finance
+    match /expense_categories/{categoryId} {
+      allow read: if isAuthenticated();
+      allow write: if isFinanceOrExec();
+    }
+
+    // Expenses:
+    // - Submitter can create and read their own
+    // - Manager can read and approve their department's expenses
+    // - Finance and Executive can read all and perform dual sign-off
+    match /expenses/{expenseId} {
+      allow read: if isAuthenticated() && (
+        resource.data.userId == request.auth.uid ||
+        isDeptManager(resource.data.departmentId) ||
+        isFinanceOrExec()
+      );
+      allow create: if isAuthenticated() && request.resource.data.userId == request.auth.uid;
+      allow update: if isAuthenticated() && (
+        isDeptManager(resource.data.departmentId) ||
+        isFinanceOrExec()
+      );
+      allow delete: if isFinanceOrExec();
+    }
+
+    // Budget Alerts: Read by managers and finance, write by system/finance
+    match /budget_alerts/{alertId} {
+      allow read: if isAuthenticated();
+      allow write: if isFinanceOrExec();
+    }
+
+    // Audit Logs: Append-only or read by Finance/Auditors
+    match /audit_logs/{logId} {
+      allow read: if isFinanceOrExec();
+      allow create: if isAuthenticated();
+      allow update, delete: if false; // Immutable audit log
+    }
+
+    // System Configurations: Read-only for regular users, editable by Finance Admin
+    match /system_configurations/{configId} {
+      allow read: if isAuthenticated();
+      allow write: if isFinanceOrExec();
+    }
+  }
+}

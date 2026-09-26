@@ -1,0 +1,98 @@
+[
+  {
+    "id": "AUD-2026-0001",
+    "timestamp": "2026-03-11T09:15:00.000Z",
+    "action": "EXPENSE_SUBMITTED",
+    "entityId": "EXP-2026-001",
+    "entityType": "EXPENSE",
+    "actorId": "usr_emp_eng1",
+    "actorName": "Liam Chen",
+    "actorRole": "EMPLOYEE",
+    "details": "Submitted AWS Cloud Infrastructure expense for $12,450.00 USD. Tagged as Tier 4 High Value.",
+    "ipAddress": "192.168.1.45"
+  },
+  {
+    "id": "AUD-2026-0002",
+    "timestamp": "2026-03-11T14:30:00.000Z",
+    "action": "MANAGER_APPROVED",
+    "entityId": "EXP-2026-001",
+    "entityType": "EXPENSE",
+    "actorId": "usr_mgr_eng",
+    "actorName": "Alex Rivera",
+    "actorRole": "DEPARTMENT_MANAGER",
+    "details": "Alex Rivera approved Tier 4 Expense EXP-2026-001. Comment: Approved. Crucial for scaling backend.",
+    "ipAddress": "192.168.1.12"
+  },
+  {
+    "id": "AUD-2026-0003",
+    "timestamp": "2026-03-12T11:00:00.000Z",
+    "action": "FINANCE_APPROVED",
+    "entityId": "EXP-2026-001",
+    "entityType": "EXPENSE",
+    "actorId": "usr_fin_001",
+    "actorName": "David Miller",
+    "actorRole": "FINANCE_ADMIN",
+    "details": "David Miller approved Tier 4 Expense EXP-2026-001 and forwarded to CFO.",
+    "ipAddress": "192.168.1.18"
+  },
+  {
+    "id": "AUD-2026-0004",
+    "timestamp": "2026-03-19T08:50:00.000Z",
+    "action": "BUDGET_THRESHOLD_BREACHED",
+    "entityId": "dept_sales",
+    "entityType": "DEPARTMENT",
+    "actorId": "SYSTEM_POLICY_ENGINE",
+    "actorName": "Intelligent Policy Engine",
+    "actorRole": "SYSTEM",
+    "details": "Department Global Sales crossed 95% budget utilization threshold (current 95.2%). Alert ALT-2026-001 generated.",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "AUD-2026-0005",
+    "timestamp": "2026-03-20T09:30:00.000Z",
+    "action": "EXPENSE_FLAGGED",
+    "entityId": "EXP-2026-003",
+    "entityType": "EXPENSE",
+    "actorId": "usr_fin_002",
+    "actorName": "Priya Sharma",
+    "actorRole": "FINANCE_AUDITOR",
+    "details": "Flagged EXP-2026-003: Exceeded per-attendee dinner allowance and Sales entertainment budget depleted.",
+    "ipAddress": "192.168.1.22"
+  },
+  {
+    "id": "AUD-2026-0006",
+    "timestamp": "2026-03-24T10:15:00.000Z",
+    "action": "ANOMALY_SPLIT_DETECTED",
+    "entityId": "EXP-2026-014",
+    "entityType": "EXPENSE",
+    "actorId": "SYSTEM_POLICY_ENGINE",
+    "actorName": "Intelligent Policy Engine",
+    "actorRole": "SYSTEM",
+    "details": "Anomaly rule RULE_ANOMALY_SPLIT_TX triggered for EXP-2026-013 & EXP-2026-014 submitted within 15 minutes totaling $2,980.00. Alert ALT-2026-004 created.",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "AUD-2026-0007",
+    "timestamp": "2026-03-02T10:00:00.000Z",
+    "action": "EXPENSE_REJECTED",
+    "entityId": "EXP-2026-006",
+    "entityType": "EXPENSE",
+    "actorId": "usr_mgr_sales",
+    "actorName": "Marcus Vance",
+    "actorRole": "DEPARTMENT_MANAGER",
+    "details": "Rejected EXP-2026-006: VIP Concert tickets violate entertainment policy 4.2.",
+    "ipAddress": "192.168.1.30"
+  },
+  {
+    "id": "AUD-2026-0008",
+    "timestamp": "2026-03-20T16:00:05.000Z",
+    "action": "EXPENSE_AUTO_APPROVED",
+    "entityId": "EXP-2026-008",
+    "entityType": "EXPENSE",
+    "actorId": "SYSTEM_AUTO_APPROVER",
+    "actorName": "System Intelligent Auto-Approver",
+    "actorRole": "SYSTEM",
+    "details": "Auto-approved EXP-2026-008 ($190.00) under Tier 1 micro-expense rules.",
+    "ipAddress": "127.0.0.1"
+  }
+]

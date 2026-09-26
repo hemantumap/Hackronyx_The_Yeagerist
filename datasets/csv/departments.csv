@@ -1,0 +1,13 @@
+departmentId,name,managerId,location
+DEPT001,Engineering,EMP015,Bangalore
+DEPT002,Marketing,EMP030,Mumbai
+DEPT003,Human Resources,EMP045,Delhi
+DEPT004,Finance,EMP060,Mumbai
+DEPT005,Management,EMP075,Mumbai
+DEPT006,Sales,EMP090,Pune
+DEPT007,Operations,EMP105,Hyderabad
+DEPT008,IT Support,EMP120,Chennai
+DEPT009,Procurement,EMP009,Noida
+DEPT010,Legal,EMP019,Gurgaon
+DEPT011,Research,EMP029,Bangalore
+DEPT012,Customer Success,EMP039,Mumbai

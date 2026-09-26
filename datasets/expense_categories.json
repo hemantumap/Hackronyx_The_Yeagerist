@@ -1,0 +1,140 @@
+[
+  {
+    "categoryId": "CAT001",
+    "name": "Advertising",
+    "code": "ADVERTISING",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT002",
+    "name": "Audit",
+    "code": "AUDIT",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT003",
+    "name": "Business Meals",
+    "code": "BUSINESS_MEALS",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT004",
+    "name": "Client Meetings",
+    "code": "CLIENT_MEETINGS",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT005",
+    "name": "Cloud Services",
+    "code": "CLOUD_SERVICES",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT006",
+    "name": "Compliance",
+    "code": "COMPLIANCE",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT007",
+    "name": "Consulting",
+    "code": "CONSULTING",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT008",
+    "name": "Cybersecurity",
+    "code": "CYBERSECURITY",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT009",
+    "name": "Design",
+    "code": "DESIGN",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT010",
+    "name": "Employee Welfare",
+    "code": "EMPLOYEE_WELFARE",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT011",
+    "name": "Equipment",
+    "code": "EQUIPMENT",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT012",
+    "name": "Events",
+    "code": "EVENTS",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT013",
+    "name": "Hardware",
+    "code": "HARDWARE",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT014",
+    "name": "Legal Consulting",
+    "code": "LEGAL_CONSULTING",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT015",
+    "name": "Logistics",
+    "code": "LOGISTICS",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT016",
+    "name": "Maintenance",
+    "code": "MAINTENANCE",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT017",
+    "name": "Office Supplies",
+    "code": "OFFICE_SUPPLIES",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT018",
+    "name": "Recruitment",
+    "code": "RECRUITMENT",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT019",
+    "name": "Software",
+    "code": "SOFTWARE",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT020",
+    "name": "Supplies",
+    "code": "SUPPLIES",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT021",
+    "name": "Training",
+    "code": "TRAINING",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT022",
+    "name": "Travel",
+    "code": "TRAVEL",
+    "currency": "INR"
+  },
+  {
+    "categoryId": "CAT023",
+    "name": "Vendor Services",
+    "code": "VENDOR_SERVICES",
+    "currency": "INR"
+  }
+]

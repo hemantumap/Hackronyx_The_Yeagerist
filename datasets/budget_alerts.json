@@ -1,0 +1,92 @@
+[
+  {
+    "alertId": "ALT001",
+    "departmentId": "DEPT001",
+    "severity": "WARNING",
+    "month": "2026-01",
+    "title": "Department DEPT001 Warning Budget Alert (2026-01)",
+    "message": "Spend reached 75.2% of monthly allocated budget. Spent: 156726, Remaining: 41710",
+    "utilizationPercentage": 75.2
+  },
+  {
+    "alertId": "ALT002",
+    "departmentId": "DEPT001",
+    "severity": "CRITICAL",
+    "month": "2026-05",
+    "title": "Department DEPT001 Critical Budget Alert (2026-05)",
+    "message": "Spend reached 81.3% of monthly allocated budget. Spent: 169446, Remaining: 29280",
+    "utilizationPercentage": 81.3
+  },
+  {
+    "alertId": "ALT003",
+    "departmentId": "DEPT001",
+    "severity": "WARNING",
+    "month": "2026-06",
+    "title": "Department DEPT001 Warning Budget Alert (2026-06)",
+    "message": "Spend reached 77.6% of monthly allocated budget. Spent: 161612, Remaining: 16202",
+    "utilizationPercentage": 77.6
+  },
+  {
+    "alertId": "ALT004",
+    "departmentId": "DEPT001",
+    "severity": "WARNING",
+    "month": "2026-08",
+    "title": "Department DEPT001 Warning Budget Alert (2026-08)",
+    "message": "Spend reached 72.2% of monthly allocated budget. Spent: 150313, Remaining: 37946",
+    "utilizationPercentage": 72.2
+  },
+  {
+    "alertId": "ALT005",
+    "departmentId": "DEPT002",
+    "severity": "WARNING",
+    "month": "2026-03",
+    "title": "Department DEPT002 Warning Budget Alert (2026-03)",
+    "message": "Spend reached 71.7% of monthly allocated budget. Spent: 107487, Remaining: 30790",
+    "utilizationPercentage": 71.7
+  },
+  {
+    "alertId": "ALT006",
+    "departmentId": "DEPT002",
+    "severity": "WARNING",
+    "month": "2026-04",
+    "title": "Department DEPT002 Warning Budget Alert (2026-04)",
+    "message": "Spend reached 74.3% of monthly allocated budget. Spent: 111378, Remaining: 25007",
+    "utilizationPercentage": 74.3
+  },
+  {
+    "alertId": "ALT007",
+    "departmentId": "DEPT002",
+    "severity": "WARNING",
+    "month": "2026-06",
+    "title": "Department DEPT002 Warning Budget Alert (2026-06)",
+    "message": "Spend reached 71.9% of monthly allocated budget. Spent: 107892, Remaining: 26459",
+    "utilizationPercentage": 71.9
+  },
+  {
+    "alertId": "ALT008",
+    "departmentId": "DEPT003",
+    "severity": "WARNING",
+    "month": "2026-02",
+    "title": "Department DEPT003 Warning Budget Alert (2026-02)",
+    "message": "Spend reached 74.6% of monthly allocated budget. Spent: 74565, Remaining: 18102",
+    "utilizationPercentage": 74.6
+  },
+  {
+    "alertId": "ALT009",
+    "departmentId": "DEPT003",
+    "severity": "WARNING",
+    "month": "2026-08",
+    "title": "Department DEPT003 Warning Budget Alert (2026-08)",
+    "message": "Spend reached 75.5% of monthly allocated budget. Spent: 75535, Remaining: 15540",
+    "utilizationPercentage": 75.5
+  },
+  {
+    "alertId": "ALT010",
+    "departmentId": "DEPT003",
+    "severity": "WARNING",
+    "month": "2026-09",
+    "title": "Department DEPT003 Warning Budget Alert (2026-09)",
+    "message": "Spend reached 72.8% of monthly allocated budget. Spent: 72837, Remaining: 21013",
+    "utilizationPercentage": 72.8
+  }
+]

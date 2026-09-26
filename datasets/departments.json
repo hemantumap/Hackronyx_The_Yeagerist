@@ -1,0 +1,74 @@
+[
+  {
+    "departmentId": "DEPT001",
+    "name": "Engineering",
+    "managerId": "EMP015",
+    "location": "Bangalore"
+  },
+  {
+    "departmentId": "DEPT002",
+    "name": "Marketing",
+    "managerId": "EMP030",
+    "location": "Mumbai"
+  },
+  {
+    "departmentId": "DEPT003",
+    "name": "Human Resources",
+    "managerId": "EMP045",
+    "location": "Delhi"
+  },
+  {
+    "departmentId": "DEPT004",
+    "name": "Finance",
+    "managerId": "EMP060",
+    "location": "Mumbai"
+  },
+  {
+    "departmentId": "DEPT005",
+    "name": "Management",
+    "managerId": "EMP075",
+    "location": "Mumbai"
+  },
+  {
+    "departmentId": "DEPT006",
+    "name": "Sales",
+    "managerId": "EMP090",
+    "location": "Pune"
+  },
+  {
+    "departmentId": "DEPT007",
+    "name": "Operations",
+    "managerId": "EMP105",
+    "location": "Hyderabad"
+  },
+  {
+    "departmentId": "DEPT008",
+    "name": "IT Support",
+    "managerId": "EMP120",
+    "location": "Chennai"
+  },
+  {
+    "departmentId": "DEPT009",
+    "name": "Procurement",
+    "managerId": "EMP009",
+    "location": "Noida"
+  },
+  {
+    "departmentId": "DEPT010",
+    "name": "Legal",
+    "managerId": "EMP019",
+    "location": "Gurgaon"
+  },
+  {
+    "departmentId": "DEPT011",
+    "name": "Research",
+    "managerId": "EMP029",
+    "location": "Bangalore"
+  },
+  {
+    "departmentId": "DEPT012",
+    "name": "Customer Success",
+    "managerId": "EMP039",
+    "location": "Mumbai"
+  }
+]

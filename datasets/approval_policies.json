@@ -1,0 +1,101 @@
+{
+  "policyVersion": "2.4.0",
+  "effectiveDate": "2026-01-01",
+  "organization": "Acme Global Enterprise",
+  "currency": "USD",
+  "tierThresholds": [
+    {
+      "tier": 1,
+      "name": "Micro-Expense Auto-Approval",
+      "minAmount": 0,
+      "maxAmount": 250,
+      "requiredApprovers": ["SYSTEM_AUTO_APPROVER"],
+      "conditions": [
+        "Receipt attached if amount > category.requiresReceiptThreshold",
+        "No high-risk anomaly flags triggered",
+        "Department budget remaining >= expense amount"
+      ],
+      "slaHours": 0
+    },
+    {
+      "tier": 2,
+      "name": "Manager Review Tier",
+      "minAmount": 250.01,
+      "maxAmount": 1500.0,
+      "requiredApprovers": ["DEPARTMENT_MANAGER"],
+      "conditions": [
+        "Receipt attached",
+        "Direct supervisor validation of business justification"
+      ],
+      "slaHours": 24
+    },
+    {
+      "tier": 3,
+      "name": "Manager + Finance Dual Sign-off",
+      "minAmount": 1500.01,
+      "maxAmount": 5000.0,
+      "requiredApprovers": ["DEPARTMENT_MANAGER", "FINANCE_AUDITOR"],
+      "conditions": [
+        "Itemized invoice/receipt verification",
+        "Category budget sufficiency check",
+        "General Ledger coding validation"
+      ],
+      "slaHours": 48
+    },
+    {
+      "tier": 4,
+      "name": "High-Value Executive Approval",
+      "minAmount": 5000.01,
+      "maxAmount": 1000000.0,
+      "requiredApprovers": ["DEPARTMENT_MANAGER", "FINANCE_ADMIN", "EXECUTIVE"],
+      "conditions": [
+        "Formal vendor contract or quote attached",
+        "Quarterly budget impact assessment",
+        "Final sign-off by CFO or Vice President"
+      ],
+      "slaHours": 72
+    }
+  ],
+  "intelligentRules": [
+    {
+      "ruleId": "RULE_ANOMALY_WEEKEND",
+      "name": "Weekend Transaction Anomaly",
+      "severity": "MEDIUM",
+      "description": "Flags transactions that occurred on Saturday or Sunday unless tagged as business travel or weekend event",
+      "action": "FLAG_FOR_AUDIT",
+      "scoreImpact": 25
+    },
+    {
+      "ruleId": "RULE_ANOMALY_SPLIT_TX",
+      "name": "Split Transaction Evasion Detection",
+      "severity": "HIGH",
+      "description": "Detects multiple expenses from same submitter within 48 hours to the same vendor totaling over threshold",
+      "action": "HOLD_FOR_FINANCE_AUDIT",
+      "scoreImpact": 45
+    },
+    {
+      "ruleId": "RULE_BUDGET_OVERRUN",
+      "name": "Department Budget Exhaustion Warning",
+      "severity": "CRITICAL",
+      "description": "Triggered when the expense causes department or category budget utilization to cross 90%",
+      "action": "ESCALATE_TO_FINANCE_DIRECTOR",
+      "scoreImpact": 30
+    },
+    {
+      "ruleId": "RULE_PER_DIEM_CAP",
+      "name": "Meal Per-Diem Cap Exceedance",
+      "severity": "LOW",
+      "description": "Flags meal expenses where per-attendee cost exceeds $100 for dinner or $40 for lunch",
+      "action": "REQUIRE_MANAGER_JUSTIFICATION",
+      "scoreImpact": 15
+    },
+    {
+      "ruleId": "RULE_DUPLICATE_CHECK",
+      "name": "Duplicate Invoice Detection",
+      "severity": "CRITICAL",
+      "description": "Matches exact vendor, date, and amount across existing approved or pending expenses",
+      "action": "AUTO_REJECT_OR_FREEZE",
+      "scoreImpact": 80
+    }
+  ]
+}
